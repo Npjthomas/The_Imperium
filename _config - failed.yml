@@ -79,7 +79,7 @@ search:
   main:
     index: '/search/index.json' # file the index will get written to
     collections:
-      imperium:
+      qatar:
         content: false # whether or not to index page content
         fields: # the metadata fields to index
           - artist
@@ -99,14 +99,14 @@ search:
 menu:
   - label: 'Resources'
     sub:
-      - label: 'Setting PDF'
-        link: 'https://drive.google.com/file/d/11dXddhzfmkntR7gC0mjRpazQCeKo_8FJ/view'
-      - label: 'Crafting Lite'
-        link: 'https://drive.google.com/file/d/1bgy5wZSIYf3nkUGS5mdSLCD6WSY6vjMz/view'
-      - label: 'Alternate Fighter'
-        link: 'https://drive.google.com/file/d/1LbDbnzttHHuRC-oEta1hRSAkieZ6wJv6/view'
-      - label: 'Credits'
-        link: '/credits/'
+     - label: 'Setting PDF'
+     link: 'https://drive.google.com/file/d/11dXddhzfmkntR7gC0mjRpazQCeKo_8FJ/view'
+     - label: 'Crafting Lite'
+     link: 'https://drive.google.com/file/d/1bgy5wZSIYf3nkUGS5mdSLCD6WSY6vjMz/view'
+     - label: 'Alternate Fighter'
+     link: 'https://drive.google.com/file/d/1LbDbnzttHHuRC-oEta1hRSAkieZ6wJv6/view'
+     - label: 'Credits'
+     link: '/credits/'
   - label: 'Exhibits'
     sub:
       - label: 'Inline Parallax Image'
