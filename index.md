@@ -3,12 +3,12 @@ layout: page
 show_title: false
 banner:
   collection: pageart
-  pid: ang2
-  
+  pid: ang1
+  y: 35% 
   clickable: no
   height: '650px'
 ---
-<!--  y: 50% -->
+
 
 <!--__Wax__ is a [minimal computing](http://go-dh.github.io/mincomp/) project for producing digital exhibitions focused on longevity, low costs, and flexibility. Our underlying technology is made to learn and to teach, and can produce beautifully rendered, high-quality image collections and scholarly exhibits. To start using Wax, please see our [documentation](https://minicomp.github.io/wiki/#/wax/) for installation instructions and more.
 
