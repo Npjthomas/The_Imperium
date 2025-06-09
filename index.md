@@ -6,7 +6,7 @@ banner:
   pid: ang1
   y: 35% 
   clickable: no
-  height: '650px'
+  height: '500px'
 ---
 
 
