@@ -2,7 +2,7 @@
 pid: obj2
 artist: The Lost
 location: Theia
-label: Map of the Journey of The Lost
+label: Map of The Fall
 _date: Anno 3536
 object_type: map
 current_location: Unknown
