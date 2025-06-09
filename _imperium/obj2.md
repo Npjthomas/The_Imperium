@@ -5,7 +5,7 @@ location: Theia
 label: Map of the Journey of The Lost
 _date: Anno 3536
 object_type: map
-current_location: Unkown
+current_location: Unknown
 source: NPJT
 order: '1'
 layout: imperium_item

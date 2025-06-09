@@ -134,11 +134,9 @@ menu:
 footer:
   links:
     - label: 'GitHub'
-      link: 'https://github.com/minicomp/wax'
+      link: 'https://github.com/Npjthomas/The_Imperium'
     - label: 'Credits'
       link: '/credits'
-    - label: 'Wiki'
-      link: 'https://minicomp.github.io/wiki/wax/'
   logos:
     - img: '/img/logo.png'
 

@@ -1,3 +1,3 @@
 pid,artist,location,label,_date,object_type,current_location,source,order,layout,collection,thumbnail,full,manifest
 obj1,Nicodemus the Doran,Theia,Map of the Imperium,Anno 3535,map,Imperium Capital Library of Academia Populai,NPJT,0,imperium_item,imperium,"/img/derivatives/iiif/images/obj1/full/250,/0/default.jpg","/img/derivatives/iiif/images/obj1/full/1140,/0/default.jpg",/img/derivatives/iiif/obj1/manifest.json
-obj2,The Lost,Theia,Map of the Journey of The Lost,Anno 3536,map,Unkown,NPJT,1,imperium_item,imperium,"/img/derivatives/iiif/images/obj2/full/250,/0/default.jpg","/img/derivatives/iiif/images/obj2/full/1140,/0/default.jpg",/img/derivatives/iiif/obj2/manifest.json
+obj2,The Lost,Theia,Map of the Journey of The Lost,Anno 3536,map,Unknown,NPJT,1,imperium_item,imperium,"/img/derivatives/iiif/images/obj2/full/250,/0/default.jpg","/img/derivatives/iiif/images/obj2/full/1140,/0/default.jpg",/img/derivatives/iiif/obj2/manifest.json

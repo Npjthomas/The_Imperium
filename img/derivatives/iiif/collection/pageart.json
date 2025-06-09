@@ -8,14 +8,14 @@ layout: none
   "label": "pageart",
   "manifests": [
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj1/manifest.json",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ang1/manifest.json",
       "@type": "sc:Manifest",
-      "label": "obj1"
+      "label": "ang1"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj2/manifest.json",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ang2/manifest.json",
       "@type": "sc:Manifest",
-      "label": "obj2"
+      "label": "ang2"
     }
   ]
 }
