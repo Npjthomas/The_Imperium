@@ -3,7 +3,7 @@ layout: page
 show_title: false
 banner:
   collection: pageart
-  pid: obj2
+  pid: ang2
   y: 25%
   clickable: no
   height: '750px'
