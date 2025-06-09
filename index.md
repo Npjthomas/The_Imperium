@@ -4,7 +4,7 @@ show_title: false
 banner:
   collection: pageart
   pid: ang2
-  y: 25%
+  y: 35%
   clickable: no
   height: '600px'
 ---
