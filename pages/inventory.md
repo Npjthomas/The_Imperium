@@ -16,7 +16,7 @@ permalink: '/inventory/'
 | Item | Quantity |
 |:-----|:--------:|
 | Food  &emsp; &emsp;| 22 Days  |
-| Water &emsp; &emsp;| 6 days   |
+| Water &emsp; &emsp;| 6 Days   |
 
 ### Crafting Materials
 
