@@ -121,6 +121,8 @@ menu:
 #        link: '/exhibits/b/'
   - label: 'Browse'
     link: '/collection/'
+  - label: 'Inventory'
+    link:   
   - label: 'Search'
     link: '/search/'
 #  - label: 'Reuse'
