@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Credits
-permalink: '/credits/'
+title: Inventory
+permalink: '/inventory/'
 ---
 
 ### Statistics
@@ -10,7 +10,20 @@ permalink: '/credits/'
 
 
 
-### Caravan Inventory
-This website would not be possible without the work of the Wax project, used for producing digital exhibitions focused on longevity, low costs, and flexibility.
+### Caravan Provisions
+
+| Item | Quantity |
+|:-----|:--------:|
+|Food  | 22 Days  |
+|Water | 6 days   |
+
+### Crafting Materials
+
+|Type       |Component      |Source         |Quantity   |
+|:----------|:--------------|:--------------|:---------:|
+|Monstrosity|Phial of Blood |Thracian Horse | 2         |
+|Monstrosity|Pouch of Teeth |Thracian Horse | 1         |
+|Monstrosity|Heart          |Thracian Horse | 1         |
+|Monstrosity|Essence        |Thracian Horse | 1         |
 
 
