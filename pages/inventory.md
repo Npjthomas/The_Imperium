@@ -14,16 +14,16 @@ permalink: '/inventory/'
 
 | Item | Quantity |
 |:-----|:--------:|
-|'Food'  | 22 Days  |
-|'Water' | 6 days   |
+| Food  &emsp;| 22 Days  |
+| Water &emsp;| 6 days   |
 
 ### Crafting Materials
 
-|Type         |Component      |Source         |Quantity         |
-|:------------|:--------------|:--------------|:---------------:|
-|'Monstrosity'|:Phial of Blood |:Thracian Horse | :2:           |
-|'Monstrosity'|:Pouch of Teeth |:Thracian Horse | :1:           |
-|'Monstrosity'|:Heart          |:Thracian Horse | :1:           |
-|'Monstrosity'|:Essence        |:Thracian Horse | :1:           |
+|Type         |Component      |Source         |Quantity       |
+|:------------|:--------------|:--------------|:-------------:|
+|Monstrosity &emsp;|Phial of Blood &emsp;|Thracian Horse &emsp;| 2           |
+|Monstrosity &emsp;|Pouch of Teeth &emsp;|Thracian Horse &emsp;| 1           |
+|Monstrosity &emsp;|Heart          &emsp;|Thracian Horse &emsp;| 1           |
+|Monstrosity &emsp;|Essence        &emsp;|Thracian Horse &emsp;| 1           |
 
 
