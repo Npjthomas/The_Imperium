@@ -122,9 +122,9 @@ menu:
   - label: 'Browse'
     link: '/collection/'
   - label: 'Inventory'
-    link:   
-  - label: 'Search'
-    link: '/search/'
+    link: '/inventory/' 
+#  - label: 'Search'
+#    link: '/search/'
 #  - label: 'Reuse'
 #    link: '/reuse/'
 
