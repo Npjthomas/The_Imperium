@@ -1,12 +1,14 @@
 ---
 layout: page
-title: Inventory
+title: Caravan
 permalink: '/inventory/'
 ---
 
 ### Statistics
 
 #### Distance Traveled: 40 miles
+#### Soliders: 20
+#### Citizens: 30
 
 
 

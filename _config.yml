@@ -121,7 +121,7 @@ menu:
 #        link: '/exhibits/b/'
   - label: 'Browse'
     link: '/collection/'
-  - label: 'Inv'
+  - label: 'Caravan'
     link: '/inventory/' 
 #  - label: 'Search'
 #    link: '/search/'
