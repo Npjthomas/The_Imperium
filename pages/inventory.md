@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Caravan
+title: Caravan Status
 permalink: '/inventory/'
 ---
 
@@ -10,6 +10,11 @@ permalink: '/inventory/'
 #### Soliders: 20
 #### Citizens: 30
 
+# one
+
+##### five
+
+##### six
 
 
 ### Caravan Provisions
