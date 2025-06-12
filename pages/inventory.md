@@ -10,12 +10,6 @@ permalink: '/inventory/'
 #### Soliders: 20
 #### Citizens: 30
 
-# one
-
-##### five
-
-##### six
-
 
 ### Caravan Provisions
 
