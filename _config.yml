@@ -112,11 +112,12 @@ menu:
       - label: 'Alternate Fighter'
         link: 'https://drive.google.com/file/d/1LbDbnzttHHuRC-oEta1hRSAkieZ6wJv6/view'
       - label: 'Credits'
-        link: '/credits/'
-      - label: 'Test1'
-        sub:
-        - label: 'Test2'      
-  - label: 'Stories'
+        link: '/credits/'     
+  - label: 'History'
+    sub:
+      - label: 'Chickens'
+        link: 'https://drive.google.com/file/d/11dXddhzfmkntR7gC0mjRpazQCeKo_8FJ/view'
+
 #    sub:
 #      - label: 'Inline Parallax Image'
 #        link: '/exhibits/a/'
