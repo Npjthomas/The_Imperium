@@ -114,7 +114,7 @@ menu:
       - label: 'Credits'
         link: '/credits/'
       - label: 'Test1'
-        sub:
+        subfolderitem:
         - label: 'Test2'      
   - label: 'Stories'
 #    sub:
