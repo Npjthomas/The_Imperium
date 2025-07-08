@@ -29,4 +29,4 @@ The naval battle which ensued saw the near annihilation of the Roman fleet. A hu
 
 The Ancient Moral? Pride against the Gods will lead to a man's downfall.
 
-The Modern Moral? You can beat skill, but you can't beat luck!
+The Modern Moral? 
