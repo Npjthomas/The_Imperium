@@ -30,3 +30,5 @@ The naval battle which ensued saw the near annihilation of the Roman fleet. A hu
 The Ancient Moral? Pride against the Gods will lead to a man's downfall.
 
 The Modern Moral? 
+
+{% include inline_image.html collection='history' pid='obj4' clickable='false' %}
