@@ -125,6 +125,7 @@ menu:
       - label: 'Chickens'
         link: '/exhibits/chickens/'
 
+  - label: 'Mythology'
 #    sub:
 #      - label: 'Inline Parallax Image'
 #        link: '/exhibits/a/'
@@ -133,7 +134,8 @@ menu:
   - label: 'Browse'
     link: '/collection/'
   - label: 'Caravan'
-    link: '/inventory/' 
+    link: '/inventory/'
+  - label: 'Crafting'
 #  - label: 'Search'
 #    link: '/search/'
 #  - label: 'Reuse'
