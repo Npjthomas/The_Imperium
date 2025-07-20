@@ -553,10 +553,11 @@ search box
   //}
 
   .card-container{
-    width: 330px;
-    height: 450px;
+    width: 374px;
+    height: 522px;
     //display: flex;
     perspective: 800px;
+    outline: none;
   }
 
   .card-container:hover > .card{
@@ -565,10 +566,10 @@ search box
   }
 
   .card{
-    width: 330px;
-    height: 450px; 
+    width: 100%;
+    height: 100%; 
     position: relative;
-    transition: transform 1000ms;
+    transition: transform 1500ms;
     transform-style: preserve-3d;
   }
 
@@ -581,8 +582,8 @@ search box
 
   .front,
   .back{
-    width: 330px;
-    height: 450px;
+    width: 100%;
+    height: 100%;
     border-radius:2rem;
     box-shadow: 0 0 5px 2px rgba(50, 50, 50, 0.25);
     position: absolute;
@@ -591,14 +592,13 @@ search box
   }
 
   .front{
-    //background-image: url(https://github.com/Npjthomas/The_Imperium/blob/main/Card_Frame_Resize.png/)
-    background-image: url(https://github.com/Npjthomas/The_Imperium/blob/main/Card_Frame_Resize.png?raw=true); //test image
+    background-image: url(https://github.com/Npjthomas/The_Imperium/blob/main/Card_Frame_Resize2.png?raw=true); //test image
     //transform: none;
   
   }
   .back{
     //background-color: #3a3a3a;
-    background-image: url(https://github.com/Npjthomas/The_Imperium/blob/main/Card_Frame_Resize.png?raw=true); //test image
+    background-image: url(https://github.com/Npjthomas/The_Imperium/blob/main/Card_Frame_Resize2.png?raw=true); //test image
     transform: rotateY(180deg);
     display: flex;
     flex-direction: column;
