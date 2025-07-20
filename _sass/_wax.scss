@@ -561,34 +561,36 @@ search box
     height: 450px;
   }
 
-  .card_container.hover >.card{
-    cursor: pointer;
-    transform: rotateY(180deg);
-    perspective: 800px;
-  }
+  //.card_container.hover >.card{
+    //cursor: pointer;
+    //transform: rotateY(180deg);
+    //perspective: 800px;
+  //}
 
   .card{
-    width: 330px;
-    height: 450px; 
-    position: relative;
-    transition: transform 1000ms;
-    transform-style: preserve-3d;
+    width: 100%;
+    height: 100%; 
+    //position: relative;
+    //transition: transform 1000ms;
+    //transform-style: preserve-3d;
 
   }
 
   .front,
   .back{
-    width: 330px;
-    height: 450px;
-    border-radius:2rem;
+    width: 100%;
+    height: 100%;s
+    //border-radius:2rem;
     //box-shadow: 0 0 5px 2px rgba(50, 50, 50, 0.25);
-    position: absolute;
-    backface-visibility: hidden;
+    //position: absolute;
+    //backface-visibility: hidden;
 
   }
 
   .front{
-    background-image: url(https://github.com/Npjthomas/The_Imperium/blob/main/Card_Frame_Resize.png/)
+    //background-image: url(https://github.com/Npjthomas/The_Imperium/blob/main/Card_Frame_Resize.png/)
+    background-image: url(https://source.upsplash.com/random/330x450);
+  
   }
   .back{
     //background-color: #3a3a3a;
