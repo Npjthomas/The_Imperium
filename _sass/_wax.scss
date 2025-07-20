@@ -562,19 +562,19 @@ search box
     display: flex;
   }
 
-  .card.hover >.card_container{
-    cursor: pointer;
-    transform: rotateY(180deg);
-    perspective: 800px;
-  }
-
   .card{
     width: 660px;
     height: 902px; 
     position: relative;
-    //transition: transform 1000ms;
+    transition: transform 1000ms;
     //transform-style: preserve-3d;
+  }
 
+  //.card.hover >.card_container{
+  .card.hover{  
+    cursor: pointer;
+    transform: rotateY(180deg);
+    //perspective: 800px;
   }
 
   .front,
