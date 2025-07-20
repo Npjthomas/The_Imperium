@@ -537,9 +537,9 @@ search box
   }
 }
 
-.card{
-  width: 825px;
-  height: 1125px;
+//.card{
+  //width: 825px;
+  //height: 1125px;
   
   //margin: 0;
   //padding: 0;
@@ -556,12 +556,12 @@ search box
     //align-items: center;
   //}
 
-  .card-container{
+  .card_container{
     width: 825px;
     height: 1125px;
   }
 
-  .card-container.hover >.card{
+  .card_container.hover >.card{
     cursor: pointer;
     transform: rotateY(180deg);
     perspective: 800px;
@@ -588,7 +588,7 @@ search box
   }
 
   .front{
-    background-image: url(https://source.unsplash.com/random)
+    background-image: url(https://source.unsplash.com/random/)
   }
   .back{
     background-color: #3a3a3a;
@@ -598,7 +598,7 @@ search box
     justify-content: center;
     gap: 5rem;
   }
-}
+//}
 
 .dataTables_wrapper {
   width: 100% !important;
