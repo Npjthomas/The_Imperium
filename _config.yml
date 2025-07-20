@@ -136,6 +136,7 @@ menu:
   - label: 'Caravan'
     link: '/inventory/'
   - label: 'Crafting'
+    link: '/crafting/'
 #  - label: 'Search'
 #    link: '/search/'
 #  - label: 'Reuse'
