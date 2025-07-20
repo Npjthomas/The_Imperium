@@ -562,7 +562,7 @@ search box
     //display: flex;
   }
 
-  .container:hover > .card{
+  .card_container:hover > .card{
     cursor: pointer;
     transform: rotateY(180deg);
     perspective: 800px;
