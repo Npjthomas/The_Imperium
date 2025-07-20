@@ -554,8 +554,8 @@ search box
   //}
 
   .card-container{
-    width: 400px;
-    height: 500px;
+    width: 825px;
+    height: 1125px;
   }
 
   .card-container.hover >.card{
@@ -565,8 +565,8 @@ search box
   }
 
   .card{
-    width: 400px;
-    height: 500px; 
+    width: 825px;
+    height: 1125px; 
     position: relative;
     transition: transform 1000ms;
     transform-style: preserve-3d;
@@ -575,8 +575,8 @@ search box
 
   .front,
   .back{
-    width: 400px;
-    height: 500px;
+    width: 825px;
+    height: 1125px;
     border-radius:2rem;
     box-shadow: 0 0 5px 2px rgba(50, 50, 50, 0.25);
     position: absolute;
