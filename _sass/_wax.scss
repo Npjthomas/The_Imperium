@@ -570,7 +570,7 @@ search box
   .card{
     width: 660px;
     height: 902px; 
-    //position: relative;
+    position: relative;
     //transition: transform 1000ms;
     //transform-style: preserve-3d;
 
@@ -582,7 +582,7 @@ search box
     height: 450px;
     border-radius:2rem;
     box-shadow: 0 0 5px 2px rgba(50, 50, 50, 0.25);
-    //position: absolute;
+    position: absolute;
     //backface-visibility: hidden;
 
   }
