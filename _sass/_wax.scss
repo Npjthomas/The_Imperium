@@ -562,6 +562,12 @@ search box
     //display: flex;
   }
 
+  .container:hover > .card{
+    cursor: pointer;
+    transform: rotateY(180deg);
+    perspective: 800px;
+  }
+
   .card{
     width: 330px;
     height: 450px; 
@@ -570,12 +576,12 @@ search box
     transform-style: preserve-3d;
   }
 
-  .card:hover >.card_container{
-  //.card:hover{
-    cursor: pointer;
-    transform: rotateY(180deg);
-    perspective: 800px;
-  }
+ 
+//  .card:hover{
+//    cursor: pointer;
+//    transform: rotateY(180deg);
+//    perspective: 800px;
+//  }
 
   .front,
   .back{
