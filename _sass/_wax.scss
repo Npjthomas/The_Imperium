@@ -573,7 +573,7 @@ search box
     height: 450px; 
     position: relative;
     transition: transform 1000ms;
-    transform-style: preserve-3d;
+    //transform-style: preserve-3d;
   }
 
  
@@ -602,11 +602,11 @@ search box
   .back{
     background-image: url(https://github.com/Npjthomas/The_Imperium/blob/main/Card_Frame_Resize.png?raw=true); //test image
     transform: rotatY(180deg);
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    gap: 5rem;
+    //display: flex;
+    //flex-direction: column;
+    //justify-content: center;
+    //align-items: center;
+    //gap: 5rem;
   }
 //}
 
