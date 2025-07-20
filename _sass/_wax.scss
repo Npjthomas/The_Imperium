@@ -552,14 +552,14 @@ search box
     //align-items: center;
   //}
 
-  .card_container{
+  .card-container{
     width: 330px;
     height: 450px;
-    display: flex;
+    //display: flex;
     perspective: 800px;
   }
 
-  .card_container:hover > .card{
+  .card-container:hover > .card{
     cursor: pointer;
     transform: rotateY(180deg);
   }
@@ -599,8 +599,8 @@ search box
   .back{
     background-color: #3a3a3a;
     //background-image: url(https://github.com/Npjthomas/The_Imperium/blob/main/Card_Frame_Resize.png?raw=true); //test image
-    transform: rotatY(180deg);
-    display: flex;
+    transform: rotateY(180deg);
+    //display: flex;
     //flex-direction: column;
     //justify-content: center;
     //align-items: center;
