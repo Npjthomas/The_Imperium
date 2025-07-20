@@ -597,13 +597,13 @@ search box
   
   }
   .back{
-    background-color: #3a3a3a;
-    //background-image: url(https://github.com/Npjthomas/The_Imperium/blob/main/Card_Frame_Resize.png?raw=true); //test image
+    //background-color: #3a3a3a;
+    background-image: url(https://github.com/Npjthomas/The_Imperium/blob/main/Card_Frame_Resize.png?raw=true); //test image
     transform: rotateY(180deg);
-    //display: flex;
-    //flex-direction: column;
-    //justify-content: center;
-    //align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     //gap: 5rem;
   }
 
