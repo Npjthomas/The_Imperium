@@ -559,13 +559,14 @@ search box
   .card_container{
     width: 660px;
     height: 902px;
+    display: flex;
   }
 
-  //.card_container.hover >.card{
-    //cursor: pointer;
-    //transform: rotateY(180deg);
-    //perspective: 800px;
-  //}
+  .card_container.hover >.card{
+    cursor: pointer;
+    transform: rotateY(180deg);
+    perspective: 800px;
+  }
 
   .card{
     width: 660px;
