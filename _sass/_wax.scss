@@ -570,7 +570,7 @@ search box
     transform-style: preserve-3d;
   }
 
-  .card.hover >.card_container{
+  .card:hover >.card_container{
   //.card:hover{
     cursor: pointer;
     transform: rotateY(180deg);
