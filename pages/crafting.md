@@ -6,5 +6,5 @@ permalink: '/crafting/'
 
 ### Items
 
-{% include inline_image.html %}
+{% include card_flip.html %}
 
