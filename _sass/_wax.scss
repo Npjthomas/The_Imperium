@@ -567,14 +567,14 @@ search box
     height: 450px; 
     position: relative;
     transition: transform 1000ms;
-    //transform-style: preserve-3d;
+    transform-style: preserve-3d;
   }
 
-  //.card.hover >.card_container{
-  .card:hover{
+  .card.hover >.card_container{
+  //.card:hover{
     cursor: pointer;
     transform: rotateY(180deg);
-    //perspective: 800px;
+    perspective: 800px;
   }
 
   .front,
