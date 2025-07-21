@@ -2,12 +2,11 @@
 layout: page
 title: Craftable Items
 permalink: '/crafting/'
+item: Sword
 ---
 
 ### Items
 
-{% capture item %}Sword{% endcapture %}
-
-{% include card_flip.html %}
+{% include card_flip.html content="This is my sample note." %}
 
 
