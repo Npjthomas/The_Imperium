@@ -600,7 +600,7 @@ search box
     transform: rotateY(180deg);
     display: flex;
     flex-direction: column;
-    justify-content: left;
+    justify-content: flex-start;
     align-items: flex-start;
     //gap: 5rem;
   }
