@@ -595,11 +595,22 @@ search box
   .back{
     background-image: url(https://github.com/Npjthomas/The_Imperium/blob/main/items/Card_Back.png?raw=true); //test image
     transform: rotateY(180deg);
+    //display: flex;
+    //flex-direction: column;
+    //justify-content: flex-start;
+    //align-items: flex-start;
+    //gap: 5rem;
+  }
+
+  .back_text{
+    width: 90%;
+    height: 90%;
+    transform: rotateY(180deg);
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
     align-items: flex-start;
-    //gap: 5rem;
+
   }
 
 .dataTables_wrapper {
