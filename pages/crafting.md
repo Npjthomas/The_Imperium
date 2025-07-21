@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Craftable Items
+title: Craftable Items (Under COnstruction!)
 permalink: '/crafting/'
 ---
 
