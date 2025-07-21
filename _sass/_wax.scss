@@ -587,6 +587,8 @@ search box
 
   .front{
     background-image: var(--background_url);
+    justify-content: center;
+    align-items: flex-start;
     //background-image: url(https://github.com/Npjthomas/The_Imperium/blob/main/Card_Frame_Resize2.png?raw=true); //test image
     //transform: none;
   
@@ -597,8 +599,8 @@ search box
     transform: rotateY(180deg);
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    align-items: center;
+    justify-content: left;
+    align-items: flex-start;
     //gap: 5rem;
   }
 
