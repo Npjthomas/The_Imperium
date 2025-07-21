@@ -587,15 +587,15 @@ search box
 
   .front{
     background-image: var(--background_url);
+    display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
+    align-items: flex-start;
     //background-image: url(https://github.com/Npjthomas/The_Imperium/blob/main/Card_Frame_Resize2.png?raw=true); //test image
     //transform: none;
   
   }
   .back{
-    //background-color: #3a3a3a;
     background-image: url(https://github.com/Npjthomas/The_Imperium/blob/main/items/Card_Back.png?raw=true); //test image
     transform: rotateY(180deg);
     display: flex;
