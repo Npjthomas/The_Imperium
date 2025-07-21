@@ -7,8 +7,11 @@ permalink: '/crafting/'
 ### Items
 
 
-![alt-text-1]({% include card_flip.html item="Bow" content="This is my sample note." %}) ![alt-text-2]({% include card_flip.html item="Arrow" content="This is my sample note." %})
-
-[//]: <> | {% include card_flip.html item="Bow" content="This is my sample note." %} | {% include card_flip.html item="Arrow" content="This is my sample note." %} |
-
-[//]: <> |{% include card_flip.html item="Sword" content="This is my sample note." %} | {% include card_flip.html item="Shield" content="This is my sample note." %} |
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem;">
+  <div>
+    {% include card_flip.html item="Bow" content="This is my sample note." %}
+  </div>
+  <div>
+    {% include card_flip.html item="Arrow" content="This is my sample note." %} 
+  </div>
+</div>
