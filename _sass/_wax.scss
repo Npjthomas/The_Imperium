@@ -588,8 +588,8 @@ search box
     background-image: var(--background_url);
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    align-items: flex-start;
+    justify-content: flex-start;
+    align-items: center;
   }
 
   .back{
