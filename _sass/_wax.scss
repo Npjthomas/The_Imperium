@@ -610,7 +610,8 @@ search box
     flex-direction: column;
     justify-content: flex-start;
     align-items: flex-start;
-
+    position: absolute;
+    backface-visibility: hidden;
   }
 
 .dataTables_wrapper {
