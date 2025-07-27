@@ -38,9 +38,9 @@ permalink: '/inventory/'
 
 |Type         |Quantity (Units)       |Quality      |Value      |
 |:------------|:-------------:|:-------------:|:-------------:|
-|Flax &emsp; &emsp; | 30       | Raw       | 3S       |
-|Copper Ore &emsp; &emsp; | 100       | Raw       | 25G       |
-|Black Laurel Wood &emsp; &emsp;| 40       | Raw       | 200G        |
+|Flax &emsp; &emsp; | 30&emsp; &emsp;| Raw&emsp; &emsp;| 3S       |
+|Copper Ore &emsp; &emsp; | 100 &emsp; &emsp;| Raw &emsp; &emsp;| 25G &emsp; &emsp;|
+|Black Laurel Wood &emsp; &emsp;| 40 &emsp; &emsp;| Raw &emsp; &emsp;| 200G &emsp; &emsp;|
 
 ### Essence
 
@@ -57,5 +57,5 @@ permalink: '/inventory/'
 |Item         |Quantity       |
 |:------------|:-------------:|
 |Arrow of Covella &emsp; &emsp; |4       |
-|Libation of Calm Waters &emsp; &emsp;| 0       |
-|Draught of Invigoration &emsp; &emsp;| 0       |
+|Libation of Calm Waters &emsp; &emsp;| 1       |
+|Draught of Invigoration &emsp; &emsp;| 1       |
