@@ -36,11 +36,12 @@ permalink: '/inventory/'
 
 ### Mundane Materials
 
-|Type         |Quantity (Units)       |Quality      |Value      |
-|:------------|:-------------:|:-------------:|:-------------:|
-|Flax &emsp; &emsp; | 30 &emsp; &emsp; &emsp; &emsp;| Raw &emsp; &emsp;| 3S &emsp; &emsp;|
-|Copper Ore &emsp; &emsp; | 100 &emsp; &emsp; &emsp; &emsp;| Raw &emsp; &emsp;| 25G &emsp; &emsp;|
-|Black Laurel Wood &emsp; &emsp;| 40 &emsp; &emsp; &emsp; &emsp;| Raw &emsp; &emsp;| 200G &emsp; &emsp;|
+|Type         |Quantity (Units)      |Quality         |Value       |
+|:------------|:--------------|:--------------|:-------------:|
+|Flax &emsp; &emsp;|30 &emsp; &emsp;|Raw &emsp; &emsp;| 3s           |
+|Copper Ore &emsp; &emsp;|100          &emsp; &emsp; |Raw       &emsp; &emsp;| 25g           |
+|Black Laurel Wood &emsp; &emsp;|40 &emsp; &emsp;|Raw &emsp; &emsp;| 200g           |
+
 
 ### Essence
 
