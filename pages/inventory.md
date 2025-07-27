@@ -16,10 +16,10 @@ permalink: '/inventory/'
 
 | Item | Quantity |
 |:-----|:--------:|
-| Food  &emsp; &emsp;| 18 Days  |
+| Food  &emsp; &emsp;| 20 Days  |
 | Water &emsp; &emsp;| 6 Days   |
 
-### Crafting Materials
+### Monster Materials
 
 |Type         |Component      |Source         |Quantity       |
 |:------------|:--------------|:--------------|:-------------:|
@@ -28,6 +28,19 @@ permalink: '/inventory/'
 |Monstrosity &emsp; &emsp;|Pouch of Teeth &emsp; &emsp;|Thracian Horse &emsp; &emsp;| 1           |
 |Monstrosity &emsp; &emsp;|Heart          &emsp; &emsp;|Thracian Horse &emsp; &emsp;| 1           |
 |Monstrosity &emsp; &emsp;|Pelt          &emsp; &emsp; |Crocotta       &emsp; &emsp;| 1           |
+|Beast &emsp; &emsp;|Pelt          &emsp; &emsp; |Golden Lion       &emsp; &emsp;| 1           |
+|Undead &emsp; &emsp;|Pouch of Teeth          &emsp; &emsp; |Golden Lion       &emsp; &emsp;| 1           |
+|Undead &emsp; &emsp;|Phial of Congealed Blood          &emsp; &emsp; |Golden Lion       &emsp; &emsp;| 1           |
+|Undead &emsp; &emsp;|Bone          &emsp; &emsp; |Golden Lion       &emsp; &emsp;| 1           |
+|Undead &emsp; &emsp;|Undying Flesh         &emsp; &emsp; |Golden Lion       &emsp; &emsp;| 1           |
+
+### Mundane Materials
+
+|Type         |Quantity (Units)       |Quality      |Value      |
+|:------------|:-------------:|:-------------:|:-------------:|
+|Flax &emsp; &emsp; | 30       | Raw       | 3S       |
+|Copper Ore &emsp; &emsp; | 100       | Raw       | 25G       |
+|Black Laurel Wood &emsp; &emsp;| 40       | Raw       | 200G        |
 
 ### Essence
 
@@ -38,3 +51,11 @@ permalink: '/inventory/'
 |Potent &emsp; &emsp;| 0       |
 |Mythic &emsp; &emsp;| 0       |
 |Deific &emsp; &emsp;| 0       |
+
+### Inventory
+
+|Item         |Quantity       |
+|:------------|:-------------:|
+|Arrow of Covella &emsp; &emsp; |4       |
+|Libation of Calm Waters &emsp; &emsp;| 0       |
+|Draught of Invigoration &emsp; &emsp;| 0       |
