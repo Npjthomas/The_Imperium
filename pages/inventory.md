@@ -38,9 +38,9 @@ permalink: '/inventory/'
 
 |Type         |Quantity (Units)      |Quality         |Value       |
 |:------------|:--------------|:--------------|:-------------:|
-|Flax &emsp; &emsp;|30 &emsp; &emsp;|Raw &emsp; &emsp;| 3s           |
-|Copper Ore &emsp; &emsp;|100          &emsp; &emsp; |Raw       &emsp; &emsp;| 25g           |
-|Black Laurel Wood &emsp; &emsp;|40 &emsp; &emsp;|Raw &emsp; &emsp;| 200g           |
+|Flax &emsp; &emsp;|30        |Raw &emsp; &emsp;| 3s           |
+|Copper Ore &emsp; &emsp;|100 |Raw       &emsp; &emsp;| 25g           |
+|Black Laurel Wood &emsp; &emsp;|40  |Raw &emsp; &emsp;| 200g           |
 
 
 ### Essence
