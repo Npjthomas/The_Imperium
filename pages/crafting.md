@@ -9,7 +9,7 @@ permalink: '/crafting/'
 
 <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 0.5rem;">
   <div>
-    {% include card_flip.html item="Golden Lion Pelt" content="Rarity: <br> Base: <br> Component: <br> The pelt of a Golden Lion. The pelt can be worn, granting 2 damage reduction against all bludgeoning, piercing, and slashing damage." url="https://github.com/Npjthomas/The_Imperium/blob/main/items/Card_Lion_Hide.png?raw=true" %}
+    {% include card_flip.html item="Golden Lion Pelt" content="Rarity: Uncommon <br> Base: None or Hide Armor <br> Component: Beast Pelt [Golden Lion] <br> The pelt of a Golden Lion. The pelt can be worn or combined with armor, granting 2 damage reduction against all bludgeoning, piercing, and slashing damage." url="https://github.com/Npjthomas/The_Imperium/blob/main/items/Card_Lion_Hide.png?raw=true" %}
   </div>
   <div>
     {% include card_flip.html item="Sword of Example" content="No Spoilers!" %} 
