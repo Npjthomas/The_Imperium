@@ -24,6 +24,9 @@ permalink: '/crafting/'
     {% include card_flip.html item="Wand of Magic Missiles" content="Rarity: Uncommon <br> Base: Wand?  <br> Component: Monstrosity Vial of Blood <br> Time: 10 Hours <br><br> This wand has 7 charges. While holding it, you can use an action to cast the magic missile spell. The spell level cooresponds to the number of charges expended.<br><br> The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed." url="https://github.com/Npjthomas/The_Imperium/blob/main/items/Card_Wand_of_Magic_Missiles.png?raw=true" %} 
     </div>
     <div>
+    {% include card_flip.html item="Wand of Magic Detection" content="Rarity: Uncommon <br> Base: Wand?  <br> Component: Monstrosity Eye [Sphinx] <br> Time: 10 Hours <br><br> This wand has 3 charges. While holding it, you can expend 1 charge as an action to cast the detect magic spell from it. The wand regains 1d3 expended charges daily at dawn." url="https://github.com/Npjthomas/The_Imperium/blob/main/items/Card_Wand_of_Magic_Detection.png?raw=true" %} 
+    </div>
+    <div>
     {% include card_flip.html item="Place Holder" content="Come Back Later" url="" %} 
     </div>
 </div>
