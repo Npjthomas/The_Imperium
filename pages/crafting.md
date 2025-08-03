@@ -27,6 +27,9 @@ permalink: '/crafting/'
     {% include card_flip.html item="Wand of Magic Detection" content="Rarity: Uncommon <br> Base: Wand?  <br> Component: Monstrosity Eye [Sphinx] <br> Time: 10 Hours <br><br> This wand has 3 charges. While holding it, you can expend 1 charge as an action to cast the detect magic spell from it. The wand regains 1d3 expended charges daily at dawn." url="https://github.com/Npjthomas/The_Imperium/blob/main/items/Card_Wand_of_Magic_Detection.png?raw=true" %} 
     </div>
     <div>
-    {% include card_flip.html item="Armor of Resistance (Necrotic)" content="Rarity: Uncommon <br> Base: Armor (Any)  <br> Component: Undying Flesh [Mummy] <br> Time: 10 Hours <br><br> You have Resistance to Necrotic damage while you wear this armor." url="Card_Armor_of_Resistance_Necrotic.png" %} 
+    {% include card_flip.html item="Armor of Resistance (Necrotic)" content="Rarity: Uncommon <br> Base: Armor (Any)  <br> Component: Undying Flesh [Mummy] <br> Time: 10 Hours <br><br> You have Resistance to Necrotic damage while you wear this armor." url="https://github.com/Npjthomas/The_Imperium/blob/main/items/Card_Armor_of_Resistance_Necrotic.png?raw=true" %} 
+    </div>
+    <div>
+    {% include card_flip.html item="Potion of Necrotic Resistance" content="Rarity: Uncommon <br> Base: Potion Base  <br> Component: Unded Congealed Blood <br> Time: 10 Hours <br><br> When you drink this potion, you gain resistance to necrotic damage for 1 hour." url="https://github.com/Npjthomas/The_Imperium/blob/main/items/Card_Potion_of_Resistance_Necrotic.png?raw=true" %} 
     </div>
 </div>
