@@ -6,9 +6,9 @@ permalink: '/inventory/'
 
 ### Statistics
 
-#### Days Traveled: 6
-#### Distance Traveled: 95 miles
-#### Legionnaires: 19
+#### Days Traveled: 9
+#### Distance Traveled: 160 miles
+#### Legionnaires: 17
 #### Citizens: 30
 
 
@@ -16,8 +16,8 @@ permalink: '/inventory/'
 
 | Item | Quantity |
 |:-----|:--------:|
-| Food  &emsp; &emsp;| 20 Days  |
-| Water &emsp; &emsp;| 6 Days   |
+| Food  &emsp; &emsp;| 17 Days  |
+| Water &emsp; &emsp;| 3 Days   |
 
 ### Monster Materials
 
@@ -33,6 +33,11 @@ permalink: '/inventory/'
 |Undead &emsp; &emsp;|Phial of Congealed Blood          &emsp; &emsp; |Golden Lion       &emsp; &emsp;| 1           |
 |Undead &emsp; &emsp;|Bone          &emsp; &emsp; |Golden Lion       &emsp; &emsp;| 1           |
 |Undead &emsp; &emsp;|Undying Flesh         &emsp; &emsp; |Golden Lion       &emsp; &emsp;| 1           |
+|Fey &emsp; &emsp;|Eye         &emsp; &emsp; |Centaur       &emsp; &emsp;| 1           |
+|Fey &emsp; &emsp;|Flesh         &emsp; &emsp; |Centaur       &emsp; &emsp;| 1           |
+|Fey &emsp; &emsp;|Phial of Blood         &emsp; &emsp; |Centaur       &emsp; &emsp;| 1           |
+|Fey &emsp; &emsp;|Liver         &emsp; &emsp; |Centaur       &emsp; &emsp;| 1           |
+|Fey &emsp; &emsp;|Heart         &emsp; &emsp; |Centaur       &emsp; &emsp;| 1           |
 
 ### Mundane Materials
 
@@ -47,7 +52,7 @@ permalink: '/inventory/'
 
 |Type         |Quantity       |
 |:------------|:-------------:|
-|Frail &emsp; &emsp; | 2       |
+|Frail &emsp; &emsp; | 3       |
 |Robust &emsp; &emsp;| 0       |
 |Potent &emsp; &emsp;| 0       |
 |Mythic &emsp; &emsp;| 0       |
