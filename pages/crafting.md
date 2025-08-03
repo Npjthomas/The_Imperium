@@ -30,9 +30,9 @@ permalink: '/crafting/'
     {% include card_flip.html item="Armor of Necrotic Resistance" content="Rarity: Uncommon <br> Base: Armor (Any)  <br> Component: Undying Flesh [Mummy] <br> Time: 10 Hours <br><br> You have Resistance to Necrotic damage while you wear this armor." url="https://github.com/Npjthomas/The_Imperium/blob/main/items/Card_Armor_of_Resistance_Necrotic.png?raw=true" %} 
     </div>
     <div>
-    {% include card_flip.html item="Potion of Necrotic Resistance" content="Rarity: Uncommon <br> Base: Potion Base  <br> Component: Undead Congealed Blood <br> Time: 10 Hours <br><br> When you drink this potion, you gain resistance to necrotic damage for 1 hour." url="https://github.com/Npjthomas/The_Imperium/blob/main/items/Card_Potion_of_Resistance_Necrotic.png?raw=true" %} 
+    {% include card_flip.html item="Potion of Necrotic Resistance" content="Rarity: Uncommon <br> Base: Potion Base  <br> Component: Undead Congealed Blood <br> Time: 4 Hours <br><br> When you drink this potion, you gain resistance to necrotic damage for 1 hour." url="https://github.com/Npjthomas/The_Imperium/blob/main/items/Card_Potion_of_Resistance_Necrotic.png?raw=true" %} 
     </div>
     <div>
-    {% include card_flip.html item="Pendant of Charming" content="Rarity: Uncommon <br> Base: Necklace worth 200g  <br> Component: Fey Eye <br> Time: 10 Hours <br><br>This pendant has 3 charges. While wearing it, you can expend 1 charge as an action to cast the charm person spell (save DC 13) on a humanoid within 30 feet of you, provided that you and the target can see each other. The pendant regain all expended charges daily at dawn." url="https://github.com/Npjthomas/The_Imperium/blob/main/items/Card_Pendant_of_Charming.png?raw=true" %} 
+    {% include card_flip.html item="Pendant of Charming" content="Rarity: Uncommon <br> Base: Necklace worth 200g  <br> Component: Fey Eye <br> Time: 20 Hours <br><br>This pendant has 3 charges. While wearing it, you can expend 1 charge as an action to cast the charm person spell (save DC 13) on a humanoid within 30 feet of you, provided that you and the target can see each other. The pendant regain all expended charges daily at dawn. <i>Requires attunement</i>." url="https://github.com/Npjthomas/The_Imperium/blob/main/items/Card_Pendant_of_Charming.png?raw=true" %} 
     </div>
 </div>
