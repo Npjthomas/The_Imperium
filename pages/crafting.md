@@ -12,7 +12,7 @@ permalink: '/crafting/'
     {% include card_flip.html item="Golden Lion Pelt" content="Rarity: Uncommon <br> Base: None or Hide Armor <br> Component: Beast Pelt [Golden Lion] <br> Time: 10 Hours <br> Tools: Leatherworker <br><br> The pelt of a Golden Lion. The pelt can be worn or crafted into armor, granting <b>2 damage reduction</b> against all <i>bludgeoning, piercing, and slashing</i> damage." url="https://github.com/Npjthomas/The_Imperium/blob/main/items/Card_Lion_Hide.png?raw=true" %}
     </div>
     <div>
-    {% include card_flip.html item="Vicious Weapon" content="Rarity: Uncommon <br> Base: Martial Weapon <br> Component: Undead Pouch of Teeth <br> Time: 10 Hours <br><br> When you roll a 20 on your attack roll with this magic weapon, the target takes an extra <i>7 damage</i> of the weapon's type." url="https://github.com/Npjthomas/The_Imperium/blob/main/items/Card_Vicious_Weapon.png?raw=true" %} 
+    {% include card_flip.html item="Vicious Weapon" content="Rarity: Uncommon <br> Base: Martial Weapon <br> Component: Undead Pouch of Teeth <br> Time: 10 Hours <br><br> When you <b>roll a 20</b> on your <b>attack roll<b> with this magic weapon, the target takes an extra <i>7 damage</i> of the weapon's type." url="https://github.com/Npjthomas/The_Imperium/blob/main/items/Card_Vicious_Weapon.png?raw=true" %} 
     </div>
     <div>
     {% include card_flip.html item="Arrow of Covella" content="Rarity: Uncommon <br> Cost: 8g of Material (each)  <br> Component: Black Laurel Wood <br> Time: 4 Hours <br> Tools: Woodworking or Carpenter <br><br> These arrows are made from the hard black wood of a sacred laurel tree. When you make an attack roll using these arrows as ammunition for a ranged weapon, add <b>1d10</b> to your roll. If your attack hits, the arrow is recoverable. If the attack misses, the arrow is either lost or damaged." url="https://github.com/Npjthomas/The_Imperium/blob/main/items/Card_Arrow_of_Covella..png?raw=true" %} 
@@ -34,5 +34,8 @@ permalink: '/crafting/'
     </div>
     <div>
     {% include card_flip.html item="Pendant <br>of Charming" content="Rarity: Uncommon <br> Base: Necklace worth 200g  <br> Component: Fey Eye <br> Time: 20 Hours <br><br>This pendant has 3 charges. While wearing it, you can expend 1 charge as an action to cast the <b>charm person</b> spell (save DC 13) on a humanoid within 30 feet of you, provided that you and the target can see each other. The pendant regain all expended charges daily at dawn. <i><b>Requires attunement</b></i>." url="https://github.com/Npjthomas/The_Imperium/blob/main/items/Card_Pendant_of_Charming.png?raw=true" %} 
+    </div>
+    <div>
+    {% include card_flip.html item="Lantern <br>of Revealing" content="Rarity: Uncommon <br> Base: Lantern  <br> Component: Fey Eye [Harpy Matriarch] <br> Time: 10 Hours <br><br>While lit, this lantern burns for 6 hours on 1 pint of oil, shedding bright light in a 30-foot radius and dim light for an additional 30 feet. Invisible creatures and objects are visible as long as they are in the lantern's bright light.</b></i>." url="https://github.com/Npjthomas/The_Imperium/blob/main/items/Card_Lantern_of_Revealing.png?raw=true" %} 
     </div>
 </div>
