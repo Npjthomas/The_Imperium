@@ -35,7 +35,4 @@ permalink: '/crafting/'
     <div>
     {% include card_flip.html item="Pendant <br>of Charming" content="Rarity: Uncommon <br> Base: Necklace worth 200g  <br> Component: Fey Eye <br> Time: 20 Hours <br><br>This pendant has 3 charges. While wearing it, you can expend 1 charge as an action to cast the <b>charm person</b> spell (save DC 13) on a humanoid within 30 feet of you, provided that you and the target can see each other. The pendant regain all expended charges daily at dawn. <i><b>Requires attunement</b></i>." url="https://github.com/Npjthomas/The_Imperium/blob/main/items/Card_Pendant_of_Charming.png?raw=true" %} 
     </div>
-    <div>
-    {% include card_flip.html item="Lantern <br>of Revealing" content="Rarity: Uncommon <br> Base: Lantern  <br> Component: Fey Eye [Harpy Matriarch] <br> Time: 10 Hours <br><br> While lit, this lantern burns for <b>6 hours</b> on 1 pint of oil, shedding <i>bright light</i> in a <b>30-foot radius</b> and <i>dim light</i> for an additional <b>30 feet</b>. <i>Invisible</i> creatures and objects are visible as long as they are in the lantern's bright light." url="https://github.com/Npjthomas/The_Imperium/blob/main/items/Card_Lantern_of_Revealing.png?raw=true" %} 
-    </div>
 </div>
