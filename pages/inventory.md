@@ -6,8 +6,8 @@ permalink: '/inventory/'
 
 ### Statistics
 
-#### Days Traveled: 9
-#### Distance Traveled: 160 miles
+#### Days Traveled: 12
+#### Distance Traveled: 170 miles
 #### Legionnaires: 17
 #### Citizens: 30
 
@@ -38,6 +38,7 @@ permalink: '/inventory/'
 |Fey &emsp; &emsp;|Phial of Blood         &emsp; &emsp; |Centaur       &emsp; &emsp;| 1           |
 |Fey &emsp; &emsp;|Liver         &emsp; &emsp; |Centaur       &emsp; &emsp;| 1           |
 |Fey &emsp; &emsp;|Heart         &emsp; &emsp; |Centaur       &emsp; &emsp;| 1           |
+|Construct &emsp; &emsp;|Lifespark         &emsp; &emsp; |Marble Golem       &emsp; &emsp;| 1           |
 
 ### Mundane Materials
 
@@ -62,6 +63,9 @@ permalink: '/inventory/'
 
 |Item         |Quantity       |
 |:------------|:-------------:|
+|Predator's Whistle &emsp; &emsp; |1       |
 |Arrow of Covella &emsp; &emsp; |4       |
 |Libation of Calm Waters &emsp; &emsp;| 1       |
 |Draught of Invigoration &emsp; &emsp;| 1       |
+|Heliana's Guide to Monster Hunting (Abridged) &emsp; &emsp;| 1       |
+
