@@ -23,8 +23,8 @@ permalink: '/inventory/'
 
 | Currency | Quantity |
 |:-----|:--------:|
-| Golden Suns (solarii) &emsp; &emsp;| 900  |
-| Silver Moons (lunarii) &emsp; &emsp;| 3500   |
+| Golden Suns (Solarii) &emsp; &emsp;| 900  |
+| Silver Moons (Lunarii) &emsp; &emsp;| 3500   |
 
 ### Monster Materials
 
@@ -35,6 +35,8 @@ permalink: '/inventory/'
 |Monstrosity &emsp; &emsp;|Pouch of Teeth &emsp; &emsp;|Thracian Horse &emsp; &emsp;| 1           |
 |Monstrosity &emsp; &emsp;|Heart          &emsp; &emsp;|Thracian Horse &emsp; &emsp;| 1           |
 |Monstrosity &emsp; &emsp;|Pelt          &emsp; &emsp; |Crocotta       &emsp; &emsp;| 1           |
+|Monstrosity &emsp; &emsp;|Pouch of Scales          &emsp; &emsp;|Hydra &emsp; &emsp;| 1           |
+|Monstrosity &emsp; &emsp;|Poison Gland          &emsp; &emsp; |Hydra       &emsp; &emsp;| 1           |
 |Beast &emsp; &emsp;|Pelt          &emsp; &emsp; |Golden Lion       &emsp; &emsp;| 1           |
 |Undead &emsp; &emsp;|Pouch of Teeth          &emsp; &emsp; |Golden Lion       &emsp; &emsp;| 1           |
 |Undead &emsp; &emsp;|Phial of Congealed Blood          &emsp; &emsp; |Golden Lion       &emsp; &emsp;| 1           |
