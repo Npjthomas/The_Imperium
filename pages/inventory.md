@@ -20,6 +20,7 @@ permalink: '/inventory/'
 | Water &emsp; &emsp;| 3 Days   |
 
 ### Party Coffers
+
 | Currency | Quantity |
 |:-----|:--------:|
 | Golden Suns (solarii) &emsp; &emsp;| 900  |
@@ -78,4 +79,5 @@ permalink: '/inventory/'
 |Libation of Calm Waters &emsp; &emsp;| 1       |
 |Draught of Invigoration &emsp; &emsp;| 1       |
 |Heliana's Guide to Monster Hunting (Abridged) &emsp; &emsp;| 1       |
+
 
