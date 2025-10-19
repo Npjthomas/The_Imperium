@@ -19,6 +19,12 @@ permalink: '/inventory/'
 | Food  &emsp; &emsp;| 17 Days  |
 | Water &emsp; &emsp;| 3 Days   |
 
+### Party Coffers
+| Currency | Quantity |
+|:-----|:--------:|
+| Golden Suns (solarii) &emsp; &emsp;| 900  |
+| Silver Moons (lunarii) &emsp; &emsp;| 3500   |
+
 ### Monster Materials
 
 |Type         |Component      |Source         |Quantity       |
@@ -42,11 +48,15 @@ permalink: '/inventory/'
 
 ### Mundane Materials
 
-|Type         |Quantity (Units)      |Quality         |Value       |
-|:------------|:--------------|:--------------|:-------------:|
-|Flax &emsp; &emsp;|30        |Raw &emsp; &emsp;| 3s           |
-|Copper Ore &emsp; &emsp;|100 |Raw       &emsp; &emsp;| 25g           |
-|Black Laurel Wood &emsp; &emsp;|40  |Raw &emsp; &emsp;| 200g           |
+|Type      |Quality         |Value       |
+|:------------|:--------------|:-------------:|
+|Flax &emsp; &emsp;|Raw &emsp; &emsp;| 3s           |
+|Copper Ore &emsp; &emsp;|Raw       &emsp; &emsp;| 25g           |
+|Black Laurel Wood &emsp; &emsp;|Raw &emsp; &emsp;| 200g           |
+|Iron Bloom &emsp; &emsp;|Refined       &emsp; &emsp;| 125g           |
+|6 Bronze Swords &emsp; &emsp;|Refined       &emsp; &emsp;| 20g (salvaged)           |
+|2 Steel Swords &emsp; &emsp;|Refined       &emsp; &emsp;| 7g (salvaged)          |
+
 
 
 ### Essence
