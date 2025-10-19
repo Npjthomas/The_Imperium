@@ -46,6 +46,4 @@ permalink: '/crafting/'
     bronze blade, warning that beneath its beautiful surface, this weapon is just as dangerous and deadly as it is elegant. <br> This magic weapon deals an extra <b>1d4 poison damage</b> to the first target it hits on each turn. <br> <b>Breath of Betrayal</b>. As an action while holding this
     weapon, you can exhale a subtle, poisonous mist targets a single creature withing <b>30 feet</b>. The creature must succeed on a DC 113 Constitution saving throw or become poisoned until the end of its next turn. A creature that starts its turn while poisoned in this way must immediately use its reaction to make a weapon attack against another creature of your choice within range. Once this property of the weapon has been used, it can’t be used again until the next dawn." <br> <b>Cunning Feint.</b> As a bonus action, you can attempt to deceive a creature within <b>60 feet</b> of you that can see you, tricking it into defending early against your attacks. Make a <i>Charisma (Deception)</i> check, contested by that creature’s <i>Wisdom (Insight)</i> check. If you succeed, you gain advantage on the next attack roll you make against that creature before the end of your current turn. url="https://github.com/Npjthomas/The_Imperium/blob/main/items/Card_Viridian_Deceiver.png?raw=true" %} 
     </div>
-    <div>
-    </div>
 </div>
