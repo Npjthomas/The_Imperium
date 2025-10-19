@@ -42,7 +42,7 @@ permalink: '/crafting/'
     {% include card_flip.html item="Heliana's Guide <br>to Monster Hunting" content="Rarity: Uncommon <br><br>As an action, you can open this scroll and stare intently at it, which displays an anatomical diagram of the corpse nearest to the book. You immediately learn any parts unique to the moster, or which will yeild unique items during crafting. <br>As an action, you can place an object that belonged to a creature—such as its scat, scales, or clothing— between the pages of this book. One minute later, the book tells you one piece of information about the creature. At the GM’s discretion, this may be: its saving throw proficiencies, damage resistances, immunities, and vulnerabilities; condition immunities; creature’s type; one of its traits; or one of the clues acquired during a hunt. Placing more objects that belonged to that creature (or a creature with the same statblock) yields no further results." url="https://github.com/Npjthomas/The_Imperium/blob/main/items/Card_Back.png?raw=true" %} 
     </div>
     <div>
-    {% include card_flip.html item="Viridian Deceiver" content="Rarity: Uncommon <br> Base: Polearm <br> Component: Poison Gland [Hydra] <br> Time: 20 Hours <br><br>  <br>" url="https://github.com/Npjthomas/The_Imperium/blob/main/items/Card_Viridian_Deceiver.png?raw=true" %} 
+    {% include card_flip.html item="Viridian Deceiver" content="Rarity: Uncommon <br> Base: Polearm <br> Component: Poison Gland [Hydra] <br> Time: 20 Hours <br><br> <a href="www.google.com">link text</a> <br>" url="https://github.com/Npjthomas/The_Imperium/blob/main/items/Card_Viridian_Deceiver.png?raw=true" %} 
     </div>
 
 </div>
