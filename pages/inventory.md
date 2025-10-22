@@ -6,9 +6,9 @@ permalink: '/inventory/'
 
 ### Statistics
 
-#### Days Traveled: 12
-#### Distance Traveled: 170 miles
-#### Legionnaires: 17
+#### Days Traveled: 24
+#### Distance Traveled: 350 miles
+#### Legionnaires: 16
 #### Citizens: 30
 
 
@@ -16,8 +16,8 @@ permalink: '/inventory/'
 
 | Item | Quantity |
 |:-----|:--------:|
-| Food  &emsp; &emsp;| 20 Days  |
-| Water &emsp; &emsp;| 5 Days   |
+| Food  &emsp; &emsp;| 18 Days  |
+| Water &emsp; &emsp;| 3 Days   |
 
 ### Party Coffers
 
@@ -30,7 +30,7 @@ permalink: '/inventory/'
 
 |Type         |Component      |Source         |Quantity       |
 |:------------|:--------------|:--------------|:-------------:|
-|Monstrosity &emsp; &emsp;|Phial of Blood &emsp; &emsp;|Thracian Horse &emsp; &emsp;| 2           |
+|Monstrosity &emsp; &emsp;|Phial of Blood &emsp; &emsp;|Thracian Horse &emsp; &emsp;| 1           |
 |Monstrosity &emsp; &emsp;|Eyes          &emsp; &emsp; |Crocotta       &emsp; &emsp;| 2           |
 |Monstrosity &emsp; &emsp;|Pouch of Teeth &emsp; &emsp;|Thracian Horse &emsp; &emsp;| 1           |
 |Monstrosity &emsp; &emsp;|Heart          &emsp; &emsp;|Thracian Horse &emsp; &emsp;| 1           |
@@ -55,9 +55,7 @@ permalink: '/inventory/'
 |:------------|:--------------|:-------------:|
 |Flax &emsp; &emsp;|Raw &emsp; &emsp;| 3s           |
 |Copper Ore &emsp; &emsp;|Raw       &emsp; &emsp;| 25g           |
-|Black Laurel Wood &emsp; &emsp;|Raw &emsp; &emsp;| 200g           |
-|Iron Bloom &emsp; &emsp;|Refined       &emsp; &emsp;| 125g           |
-|6 Bronze Swords &emsp; &emsp;|Refined       &emsp; &emsp;| 20g (salvaged)           |
+|Black Laurel Wood &emsp; &emsp;|Raw &emsp; &emsp;| 150g           |
 |2 Steel Swords &emsp; &emsp;|Refined       &emsp; &emsp;| 7g (salvaged)          |
 
 
@@ -66,7 +64,7 @@ permalink: '/inventory/'
 
 |Type         |Quantity       |
 |:------------|:-------------:|
-|Frail &emsp; &emsp; | 3       |
+|Frail &emsp; &emsp; | 2       |
 |Robust &emsp; &emsp;| 0       |
 |Potent &emsp; &emsp;| 0       |
 |Mythic &emsp; &emsp;| 0       |
