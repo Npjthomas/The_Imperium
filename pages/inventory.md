@@ -16,8 +16,8 @@ permalink: '/inventory/'
 
 | Item | Quantity |
 |:-----|:--------:|
-| Food  &emsp; &emsp;| 17 Days  |
-| Water &emsp; &emsp;| 3 Days   |
+| Food  &emsp; &emsp;| 20 Days  |
+| Water &emsp; &emsp;| 5 Days   |
 
 ### Party Coffers
 
@@ -81,5 +81,5 @@ permalink: '/inventory/'
 |Libation of Calm Waters &emsp; &emsp;| 1       |
 |Draught of Invigoration &emsp; &emsp;| 1       |
 |Heliana's Guide to Monster Hunting (Abridged) &emsp; &emsp;| 1       |
-
+|Labyrinthine Kopis &emsp; &emsp; |1       |
 
