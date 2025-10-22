@@ -23,7 +23,7 @@ permalink: '/inventory/'
 
 | Currency | Quantity |
 |:-----|:--------:|
-| Golden Suns (Solarii) &emsp; &emsp;| 900  |
+| Golden Suns (Solarii) &emsp; &emsp;| 660  |
 | Silver Moons (Lunarii) &emsp; &emsp;| 3500   |
 
 ### Monster Materials
@@ -47,6 +47,9 @@ permalink: '/inventory/'
 |Fey &emsp; &emsp;|Phial of Blood         &emsp; &emsp; |Centaur       &emsp; &emsp;| 1           |
 |Fey &emsp; &emsp;|Liver         &emsp; &emsp; |Centaur       &emsp; &emsp;| 1           |
 |Fey &emsp; &emsp;|Heart         &emsp; &emsp; |Centaur       &emsp; &emsp;| 1           |
+|Fey &emsp; &emsp;|Pouch of Feathers         &emsp; &emsp; |Suneater       &emsp; &emsp;| 1           |
+|Fey &emsp; &emsp;|Sinew         &emsp; &emsp; |Suneater       &emsp; &emsp;| 1           |
+|Fey &emsp; &emsp;|Beak         &emsp; &emsp; |Suneater       &emsp; &emsp;| 1           |
 |Construct &emsp; &emsp;|Lifespark         &emsp; &emsp; |Marble Golem       &emsp; &emsp;| 1           |
 
 ### Mundane Materials
