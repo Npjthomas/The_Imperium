@@ -547,7 +547,7 @@ search box
 
   .card-container:hover > .card{
     cursor: pointer;
-    transform: rotateY(180deg) scale(1.5);
+    transform: rotateY(180deg) /*scale(1.5)*/;
   }
 
   .card{
