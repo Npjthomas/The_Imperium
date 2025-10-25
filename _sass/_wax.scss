@@ -593,7 +593,10 @@ search box
       flex-direction: column;
       justify-content: flex-start;
       align-items: flex-start;
-      
+        /* For Firefox */
+      scrollbar-width: none;
+      /* For IE and Edge */
+      -ms-overflow-style: none;
     }
 
     //gap: 5rem;
