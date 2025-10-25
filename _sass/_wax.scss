@@ -586,10 +586,6 @@ search box
       width: 84%;
       height: 84%;
       overflow-y: auto; /* Enable vertical scrolling */
-      /* For Firefox */
-      scrollbar-width: none;
-      /* For IE and Edge */
-      -ms-overflow-style: none;
       position: relative;
       left: 8%;
       top: 8%;
