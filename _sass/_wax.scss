@@ -575,8 +575,6 @@ search box
     flex-direction: column;
     justify-content: flex-start;
     flex-wrap: wrap;
-    overflow-y: auto; /* Enable vertical scrolling */
-    -webkit-overflow-scrolling: touch; /* Enhance scrolling on touch and iOS devices */
     text-align: center;
     align-items: center;
   }
@@ -594,6 +592,8 @@ search box
       flex-direction: column;
       justify-content: flex-start;
       align-items: flex-start;
+      overflow-y: auto; /* Enable vertical scrolling */
+      -webkit-overflow-scrolling: touch; /* Enhance scrolling on touch and iOS devices */
     }
 
     //gap: 5rem;
