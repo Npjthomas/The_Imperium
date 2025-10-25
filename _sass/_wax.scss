@@ -547,7 +547,7 @@ search box
 
   .card-container:hover > .card{
     cursor: pointer;
-    transform: rotateY(180deg) scale(1.1);
+    transform: rotateY(180deg) scale(1.5);
   }
 
   .card{
@@ -586,6 +586,10 @@ search box
       width: 84%;
       height: 84%;
       overflow-y: auto; /* Enable vertical scrolling */
+      /* For Firefox */
+      scrollbar-width: none;
+      /* For IE and Edge */
+      -ms-overflow-style: none;
       position: relative;
       left: 8%;
       top: 8%;
@@ -593,10 +597,7 @@ search box
       flex-direction: column;
       justify-content: flex-start;
       align-items: flex-start;
-        /* For Firefox */
-      scrollbar-width: none;
-      /* For IE and Edge */
-      -ms-overflow-style: none;
+
     }
 
     //gap: 5rem;
