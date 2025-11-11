@@ -6,8 +6,8 @@ permalink: '/inventory/'
 
 ### Statistics
 
-#### Days Traveled: 24
-#### Distance Traveled: 350 miles
+#### Days Traveled: 26
+#### Distance Traveled: 390 miles
 #### Legionnaires: 16
 #### Citizens: 30
 
@@ -16,15 +16,15 @@ permalink: '/inventory/'
 
 | Item | Quantity |
 |:-----|:--------:|
-| Food  &emsp; &emsp;| 18 Days  |
-| Water &emsp; &emsp;| 3 Days   |
+| Food  &emsp; &emsp;| 16 Days  |
+| Water &emsp; &emsp;| 1 Days   |
 
 ### Party Coffers
 
 | Currency | Quantity |
 |:-----|:--------:|
 | Golden Suns (Solarii) &emsp; &emsp;| 660  |
-| Silver Moons (Lunarii) &emsp; &emsp;| 3500   |
+| Silver Moons (Lunarii) &emsp; &emsp;| 5000   |
 
 ### Monster Materials
 
@@ -51,6 +51,12 @@ permalink: '/inventory/'
 |Fey &emsp; &emsp;|Sinew         &emsp; &emsp; |Suneater       &emsp; &emsp;| 1           |
 |Fey &emsp; &emsp;|Beak         &emsp; &emsp; |Suneater       &emsp; &emsp;| 1           |
 |Construct &emsp; &emsp;|Lifespark         &emsp; &emsp; |Marble Golem       &emsp; &emsp;| 1           |
+|Giant &emsp; &emsp;|Vial of Blood         &emsp; &emsp; |Cyclops       &emsp; &emsp;| 3           |
+|Giant &emsp; &emsp;|Pouch of Nails         &emsp; &emsp; |Cyclops       &emsp; &emsp;| 1           |
+|Giant &emsp; &emsp;|Bones         &emsp; &emsp; |Cyclops       &emsp; &emsp;| 1           |
+|Giant &emsp; &emsp;|Heart         &emsp; &emsp; |Cyclops       &emsp; &emsp;| 1           |
+|Giant &emsp; &emsp;|Eye         &emsp; &emsp; |Cyclops       &emsp; &emsp;| 1           |
+
 
 ### Mundane Materials
 
@@ -67,7 +73,7 @@ permalink: '/inventory/'
 
 |Type         |Quantity       |
 |:------------|:-------------:|
-|Frail &emsp; &emsp; | 2       |
+|Frail &emsp; &emsp; | 3       |
 |Robust &emsp; &emsp;| 0       |
 |Potent &emsp; &emsp;| 0       |
 |Mythic &emsp; &emsp;| 0       |
@@ -83,4 +89,5 @@ permalink: '/inventory/'
 |Draught of Invigoration &emsp; &emsp;| 1       |
 |Heliana's Guide to Monster Hunting (Abridged) &emsp; &emsp;| 1       |
 |Labyrinthine Kopis &emsp; &emsp; |1       |
+|Demos's Warspear (+1) &emsp; &emsp; |1       |
 
