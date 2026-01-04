@@ -6,8 +6,8 @@ permalink: '/inventory/'
 
 ### Statistics
 
-#### Days Traveled: 26
-#### Distance Traveled: 390 miles
+#### Days Traveled: 30
+#### Distance Traveled: 450 miles
 #### Legionnaires: 16
 #### Citizens: 30
 
@@ -16,15 +16,17 @@ permalink: '/inventory/'
 
 | Item | Quantity |
 |:-----|:--------:|
-| Food  &emsp; &emsp;| 16 Days  |
-| Water &emsp; &emsp;| 1 Days   |
+| Food  &emsp; &emsp;| 15 Days  |
+| Water &emsp; &emsp;| 5 Days   |
 
 ### Party Coffers
 
 | Currency | Quantity |
 |:-----|:--------:|
-| Golden Suns (Solarii) &emsp; &emsp;| 660  |
-| Silver Moons (Lunarii) &emsp; &emsp;| 5000   |
+| Golden Suns (Solarii) &emsp; &emsp;| 1,660  |
+| Silver Moons (Lunarii) &emsp; &emsp;| 10,000   |
+| Gems and Trinkets &emsp; &emsp;| 1,300g   |
+
 
 ### Monster Materials
 
@@ -56,7 +58,9 @@ permalink: '/inventory/'
 |Giant &emsp; &emsp;|Bones         &emsp; &emsp; |Cyclops       &emsp; &emsp;| 1           |
 |Giant &emsp; &emsp;|Heart         &emsp; &emsp; |Cyclops       &emsp; &emsp;| 1           |
 |Giant &emsp; &emsp;|Eye         &emsp; &emsp; |Cyclops       &emsp; &emsp;| 1           |
-
+|Aberration &emsp; &emsp;|Subeye         &emsp; &emsp; |Dreamreaver       &emsp; &emsp;| 2           |
+|Aberration &emsp; &emsp;|Hide         &emsp; &emsp; |Dreamreaver       &emsp; &emsp;| 1           |
+|Aberration &emsp; &emsp;|Bone         &emsp; &emsp; |Dreamreaver       &emsp; &emsp;| 3           |
 
 ### Mundane Materials
 
@@ -90,4 +94,5 @@ permalink: '/inventory/'
 |Heliana's Guide to Monster Hunting (Abridged) &emsp; &emsp;| 1       |
 |Labyrinthine Kopis &emsp; &emsp; |1       |
 |Demos's Warspear (+1) &emsp; &emsp; |1       |
+|Second Chance &emsp; &emsp; |1       |
 
