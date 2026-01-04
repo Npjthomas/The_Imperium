@@ -1,6 +1,6 @@
 ---
 pid: obj2
-artist: The Lost
+artist: Sadikos, The Laughing Shade
 location: Theia
 label: Map of the Journey of 'The Lost'
 _date: Anno 3536
@@ -12,5 +12,5 @@ layout: imperium_item
 collection: imperium
 thumbnail: "/img/derivatives/iiif/images/obj2/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/obj2/manifest.json"
-full: ''
+full: "/img/derivatives/iiif/images/obj2/full/1140,/0/default.jpg"
 ---
