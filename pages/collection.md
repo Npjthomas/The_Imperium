@@ -17,6 +17,7 @@ This page includes artwork, maps, and objects from throughout the campaign. As t
 {% include collection_gallery.html facet_by='object_type' only='map' collection='imperium' %}
 
 ### Artifacts
+{% include collection_gallery.html facet_by='object_type' only='artifact' collection='imperium' %}
 
 ### Documents
 
