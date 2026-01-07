@@ -17,15 +17,16 @@ permalink: '/inventory/'
 | Item | Quantity |
 |:-----|:--------:|
 | Food  &emsp; &emsp;| 15 Days  |
-| Water &emsp; &emsp;| 5 Days   |
+| Water &emsp; &emsp;| 2 Days   |
 
 ### Party Coffers
 
 | Currency | Quantity |
 |:-----|:--------:|
-| Golden Suns (Solarii) &emsp; &emsp;| 1,660  |
-| Silver Moons (Lunarii) &emsp; &emsp;| 10,000   |
-| Gems and Trinkets &emsp; &emsp;| 1,300g   |
+| Golden Suns (Solarii) &emsp; &emsp;| 1,650  |
+| Silver Moons (Lunarii) &emsp; &emsp;| 7,500   |
+| Gems and Trinkets &emsp; &emsp;| 1,025gp   |
+| Pearl (Identify) &emsp; &emsp;| 100gp   |
 
 
 ### Monster Materials
@@ -37,7 +38,6 @@ permalink: '/inventory/'
 |Monstrosity &emsp; &emsp;|Pouch of Teeth &emsp; &emsp;|Thracian Horse &emsp; &emsp;| 1           |
 |Monstrosity &emsp; &emsp;|Heart          &emsp; &emsp;|Thracian Horse &emsp; &emsp;| 1           |
 |Monstrosity &emsp; &emsp;|Pelt          &emsp; &emsp; |Crocotta       &emsp; &emsp;| 1           |
-|Monstrosity &emsp; &emsp;|Pouch of Scales          &emsp; &emsp;|Hydra &emsp; &emsp;| 1           |
 |Monstrosity &emsp; &emsp;|Poison Gland          &emsp; &emsp; |Hydra       &emsp; &emsp;| 1           |
 |Beast &emsp; &emsp;|Pelt          &emsp; &emsp; |Golden Lion       &emsp; &emsp;| 1           |
 |Undead &emsp; &emsp;|Pouch of Teeth          &emsp; &emsp; |Golden Lion       &emsp; &emsp;| 1           |
@@ -51,7 +51,8 @@ permalink: '/inventory/'
 |Fey &emsp; &emsp;|Heart         &emsp; &emsp; |Centaur       &emsp; &emsp;| 1           |
 |Fey &emsp; &emsp;|Pouch of Feathers         &emsp; &emsp; |Suneater       &emsp; &emsp;| 1           |
 |Fey &emsp; &emsp;|Sinew         &emsp; &emsp; |Suneater       &emsp; &emsp;| 1           |
-|Fey &emsp; &emsp;|Beak         &emsp; &emsp; |Suneater       &emsp; &emsp;| 1           |
+|Fey &emsp; &emsp;|Pouch of Feathers         &emsp; &emsp; |Harpy Witch       &emsp; &emsp;| 1           |
+|Fey &emsp; &emsp;|Eye         &emsp; &emsp; |Harpy Witch       &emsp; &emsp;| 2           |
 |Construct &emsp; &emsp;|Lifespark         &emsp; &emsp; |Marble Golem       &emsp; &emsp;| 1           |
 |Giant &emsp; &emsp;|Vial of Blood         &emsp; &emsp; |Cyclops       &emsp; &emsp;| 3           |
 |Giant &emsp; &emsp;|Pouch of Nails         &emsp; &emsp; |Cyclops       &emsp; &emsp;| 1           |
@@ -77,7 +78,7 @@ permalink: '/inventory/'
 
 |Type         |Quantity       |
 |:------------|:-------------:|
-|Frail &emsp; &emsp; | 3       |
+|Frail &emsp; &emsp; | 1       |
 |Robust &emsp; &emsp;| 0       |
 |Potent &emsp; &emsp;| 0       |
 |Mythic &emsp; &emsp;| 0       |
@@ -93,6 +94,7 @@ permalink: '/inventory/'
 |Draught of Invigoration &emsp; &emsp;| 1       |
 |Heliana's Guide to Monster Hunting (Abridged) &emsp; &emsp;| 1       |
 |Labyrinthine Kopis &emsp; &emsp; |1       |
+|"Harpy Charm" &emsp; &emsp; |1       |
 |Demos's Warspear (+1) &emsp; &emsp; |1       |
 |Second Chance &emsp; &emsp; |1       |
 
