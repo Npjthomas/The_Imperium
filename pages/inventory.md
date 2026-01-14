@@ -16,23 +16,23 @@ permalink: '/inventory/'
 
 | Item | Quantity |
 |:-----|:--------:|
-| Food  &emsp; &emsp;| 15 Days  |
-| Water &emsp; &emsp;| 2 Days   |
+| Food      &emsp; &emsp;| 15 Days  |
+| Water     &emsp; &emsp;| 1 Days   |
 
 ### Party Coffers
 
 | Currency | Quantity |
 |:-----|:--------:|
-| Golden Suns (Solarii) &emsp; &emsp;| 1,650  |
-| Silver Moons (Lunarii) &emsp; &emsp;| 7,500   |
-| Gems and Trinkets &emsp; &emsp;| 1,025gp   |
-| Pearl (Identify) &emsp; &emsp;| 100gp   |
+| Golden Suns (Solarii)     &emsp; &emsp;| 1,650      |
+| Silver Moons (Lunarii)    &emsp; &emsp;| 7,500      |
+| Gems and Trinkets         &emsp; &emsp;| 1,025gp    |
+| Pearl (Identify)          &emsp; &emsp;| 100gp      |
 
 
 ### Monster Materials
 
-|Type         |Component      |Source         |Quantity       |DC             |
-|:------------|:--------------|:--------------|:--------------|:-------------|
+|Type         |Component      |Source         |Quantity       |DC               |
+|:------------|:--------------|:--------------|:--------------|:---------------:|
 |Monstrosity &emsp; &emsp;|Phial of Blood            &emsp; &emsp;|Thracian Horse    &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  |
 |Monstrosity &emsp; &emsp;|Eyes                      &emsp; &emsp;|Crocotta          &emsp; &emsp;| 2 &emsp; &emsp;| &emsp; &emsp; 5  |
 |Monstrosity &emsp; &emsp;|Pouch of Teeth            &emsp; &emsp;|Thracian Horse    &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 |
@@ -67,10 +67,10 @@ permalink: '/inventory/'
 
 |Type      |Quality         |Value       |
 |:------------|:--------------|:-------------:|
-|Flax &emsp; &emsp;|Raw &emsp; &emsp;| 3s           |
-|Copper Ore &emsp; &emsp;|Raw       &emsp; &emsp;| 25g           |
-|Black Laurel Wood &emsp; &emsp;|Raw &emsp; &emsp;| 150g           |
-|2 Steel Swords &emsp; &emsp;|Refined       &emsp; &emsp;| 7g (salvaged)          |
+|Flax               &emsp; &emsp; |Raw          &emsp; &emsp;| 3s               |
+|Copper Ore         &emsp; &emsp; |Raw          &emsp; &emsp;| 25g              |
+|Black Laurel Wood  &emsp; &emsp; |Raw          &emsp; &emsp;| 150g             |
+|2 Steel Swords     &emsp; &emsp; |Refined      &emsp; &emsp;| 7g (salvaged)    |
 
 
 
@@ -78,23 +78,23 @@ permalink: '/inventory/'
 
 |Type         |Quantity       |
 |:------------|:-------------:|
-|Frail &emsp; &emsp; | 1       |
-|Robust &emsp; &emsp;| 0       |
-|Potent &emsp; &emsp;| 0       |
-|Mythic &emsp; &emsp;| 0       |
-|Deific &emsp; &emsp;| 0       |
+|Frail      &emsp; &emsp; | 1       |
+|Robust     &emsp; &emsp; | 0       |
+|Potent     &emsp; &emsp; | 0       |
+|Mythic     &emsp; &emsp; | 0       |
+|Deific     &emsp; &emsp; | 0       |
 
 ### Inventory
 
 |Item         |Quantity       |
 |:------------|:-------------:|
-|Predator's Whistle &emsp; &emsp; |1       |
-|Arrow of Covella &emsp; &emsp; |4       |
-|Libation of Calm Waters &emsp; &emsp;| 1       |
-|Draught of Invigoration &emsp; &emsp;| 1       |
+|Predator's Whistle                            &emsp; &emsp;| 1       |
+|Arrow of Covella                              &emsp; &emsp;| 4       |
+|Libation of Calm Waters                       &emsp; &emsp;| 1       |
+|Draught of Invigoration                       &emsp; &emsp;| 1       |
 |Heliana's Guide to Monster Hunting (Abridged) &emsp; &emsp;| 1       |
-|Labyrinthine Kopis &emsp; &emsp; |1       |
-|"Harpy Charm" &emsp; &emsp; |1       |
-|Demos's Warspear (+1) &emsp; &emsp; |1       |
-|Second Chance &emsp; &emsp; |1       |
+|Labyrinthine Kopis                            &emsp; &emsp;| 1       |
+|"Harpy Charm"                                 &emsp; &emsp;| 1       |
+|Demos's Warspear (+1)                         &emsp; &emsp;| 1       |
+|Second Chance                                 &emsp; &emsp;| 1       |
 
