@@ -32,7 +32,7 @@ permalink: '/inventory/'
 ### Monster Materials
 
 |Type         |Component      |Source         |Quantity       |DC             |
-|:------------|:--------------|:--------------|:--------------|:-------------:|
+|:------------|:--------------|:--------------|:--------------|:-------------|
 |Monstrosity &emsp; &emsp;|Phial of Blood            &emsp; &emsp;|Thracian Horse    &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  |
 |Monstrosity &emsp; &emsp;|Eyes                      &emsp; &emsp;|Crocotta          &emsp; &emsp;| 2 &emsp; &emsp;| &emsp; &emsp; 5  |
 |Monstrosity &emsp; &emsp;|Pouch of Teeth            &emsp; &emsp;|Thracian Horse    &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 |
