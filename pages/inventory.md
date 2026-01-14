@@ -50,7 +50,7 @@ permalink: '/inventory/'
 |Fey         &emsp; &emsp;|Liver                     &emsp; &emsp;|Centaur           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 |
 |Fey         &emsp; &emsp;|Heart                     &emsp; &emsp;|Centaur           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 |
 |Fey         &emsp; &emsp;|Pouch of Feathers         &emsp; &emsp;|Suneater          &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 |
-|Fey         &emsp; &emsp;|Sinew                     &emsp; &emsp;|Suneater          &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp;    |
+|Fey         &emsp; &emsp;|Sinew                     &emsp; &emsp;|Suneater          &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 20 |
 |Fey         &emsp; &emsp;|Pouch of Feathers         &emsp; &emsp;|Harpy Witch       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 |
 |Fey         &emsp; &emsp;|Eye                       &emsp; &emsp;|Harpy Witch       &emsp; &emsp;| 2 &emsp; &emsp;| &emsp; &emsp; 5  |
 |Construct   &emsp; &emsp;|Lifespark                 &emsp; &emsp;|Marble Golem      &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 25 |
@@ -58,7 +58,7 @@ permalink: '/inventory/'
 |Giant       &emsp; &emsp;|Pouch of Nails            &emsp; &emsp;|Cyclops           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  |
 |Giant       &emsp; &emsp;|Bones                     &emsp; &emsp;|Cyclops           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 |
 |Giant       &emsp; &emsp;|Heart                     &emsp; &emsp;|Cyclops           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 |
-|Giant       &emsp; &emsp;|Eye                       &emsp; &emsp;|Cyclops           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp;    |
+|Giant       &emsp; &emsp;|Eye                       &emsp; &emsp;|Cyclops           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 |
 |Aberration  &emsp; &emsp;|Subeye                    &emsp; &emsp;|Dreamreaver       &emsp; &emsp;| 2 &emsp; &emsp;| &emsp; &emsp; 5  |
 |Aberration  &emsp; &emsp;|Hide                      &emsp; &emsp;|Dreamreaver       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 20 |
 |Aberration  &emsp; &emsp;|Bone                      &emsp; &emsp;|Dreamreaver       &emsp; &emsp;| 3 &emsp; &emsp;| &emsp; &emsp; 10 |
@@ -70,7 +70,10 @@ permalink: '/inventory/'
 |Flax               &emsp; &emsp; |Raw          &emsp; &emsp;| 3s               |
 |Copper Ore         &emsp; &emsp; |Raw          &emsp; &emsp;| 25g              |
 |Black Laurel Wood  &emsp; &emsp; |Raw          &emsp; &emsp;| 150g             |
-|2 Steel Swords     &emsp; &emsp; |Refined      &emsp; &emsp;| 7g (salvaged)    |
+|2 Steel Swords     &emsp; &emsp; |Refined      &emsp; &emsp;| 5g (salvaged)    |
+|2 Bronze Swords    &emsp; &emsp; |Refined      &emsp; &emsp;| 3g (salvaged)    |
+|3 Bronze Spears    &emsp; &emsp; |Refined      &emsp; &emsp;| 5s (salvaged)    |
+|5 Bronze Shields   &emsp; &emsp; |Refined      &emsp; &emsp;| 7g (salvaged)    |
 
 
 
@@ -97,4 +100,4 @@ permalink: '/inventory/'
 |"Harpy Charm"                                 &emsp; &emsp;| 1       |
 |Demos's Warspear (+1)                         &emsp; &emsp;| 1       |
 |Second Chance                                 &emsp; &emsp;| 1       |
-
+|Shortbows                                     &emsp; &emsp;| 3       |
