@@ -33,35 +33,35 @@ permalink: '/inventory/'
 
 |Type         |Component      |Source         |Quantity       |DC             |
 |:------------|:--------------|:--------------|:--------------|:-------------:|
-|Monstrosity &emsp; &emsp;|Phial of Blood &emsp; &emsp;|Thracian Horse &emsp; &emsp;| 1 &emsp; &emsp;| 5           |
-|Monstrosity &emsp; &emsp;|Eyes          &emsp; &emsp; |Crocotta       &emsp; &emsp;| 2 &emsp; &emsp;| 5           |
-|Monstrosity &emsp; &emsp;|Pouch of Teeth &emsp; &emsp;|Thracian Horse &emsp; &emsp;| 1 &emsp; &emsp;| 10           |
-|Monstrosity &emsp; &emsp;|Heart          &emsp; &emsp;|Thracian Horse &emsp; &emsp;| 1 &emsp; &emsp;| 15           |
-|Monstrosity &emsp; &emsp;|Pelt          &emsp; &emsp; |Crocotta       &emsp; &emsp;| 1 &emsp; &emsp;| 20           |
-|Monstrosity &emsp; &emsp;|Poison Gland          &emsp; &emsp; |Hydra       &emsp; &emsp;| 1 &emsp; &emsp;| 15           |
-|Beast &emsp; &emsp;|Pelt          &emsp; &emsp; |Golden Lion       &emsp; &emsp;| 1 &emsp; &emsp;| 20           |
-|Undead &emsp; &emsp;|Pouch of Teeth          &emsp; &emsp; |Golden Lion       &emsp; &emsp;| 1 &emsp; &emsp;| 10           |
-|Undead &emsp; &emsp;|Phial of Congealed Blood          &emsp; &emsp; |Golden Lion       &emsp; &emsp;| 1 &emsp; &emsp;| 5           |
-|Undead &emsp; &emsp;|Bone          &emsp; &emsp; |Golden Lion       &emsp; &emsp;| 1 &emsp; &emsp;| 5           |
-|Undead &emsp; &emsp;|Undying Flesh         &emsp; &emsp; |Golden Lion       &emsp; &emsp;| 1 &emsp; &emsp;| 15           |
-|Fey &emsp; &emsp;|Eye         &emsp; &emsp; |Centaur       &emsp; &emsp;| 1 &emsp; &emsp;| 5           |
-|Fey &emsp; &emsp;|Flesh         &emsp; &emsp; |Centaur       &emsp; &emsp;| 1 &emsp; &emsp;| 5           |
-|Fey &emsp; &emsp;|Phial of Blood         &emsp; &emsp; |Centaur       &emsp; &emsp;| 1 &emsp; &emsp;| 5           |
-|Fey &emsp; &emsp;|Liver         &emsp; &emsp; |Centaur       &emsp; &emsp;| 1 &emsp; &emsp;| 15           |
-|Fey &emsp; &emsp;|Heart         &emsp; &emsp; |Centaur       &emsp; &emsp;| 1 &emsp; &emsp;| 15           |
-|Fey &emsp; &emsp;|Pouch of Feathers         &emsp; &emsp; |Suneater       &emsp; &emsp;| 1 &emsp; &emsp;| 15           |
-|Fey &emsp; &emsp;|Sinew         &emsp; &emsp; |Suneater       &emsp; &emsp;| 1 &emsp; &emsp;|            |
-|Fey &emsp; &emsp;|Pouch of Feathers         &emsp; &emsp; |Harpy Witch       &emsp; &emsp;| 1 &emsp; &emsp;| 15           |
-|Fey &emsp; &emsp;|Eye         &emsp; &emsp; |Harpy Witch       &emsp; &emsp;| 2 &emsp; &emsp;| 5           |
-|Construct &emsp; &emsp;|Lifespark         &emsp; &emsp; |Marble Golem       &emsp; &emsp;| 1 &emsp; &emsp;| 25           |
-|Giant &emsp; &emsp;|Vial of Blood         &emsp; &emsp; |Cyclops       &emsp; &emsp;| 3 &emsp; &emsp;| 5           |
-|Giant &emsp; &emsp;|Pouch of Nails         &emsp; &emsp; |Cyclops       &emsp; &emsp;| 1 &emsp; &emsp;| 5           |
-|Giant &emsp; &emsp;|Bones         &emsp; &emsp; |Cyclops       &emsp; &emsp;| 1 &emsp; &emsp;| 10           |
-|Giant &emsp; &emsp;|Heart         &emsp; &emsp; |Cyclops       &emsp; &emsp;| 1 &emsp; &emsp;| 15           |
-|Giant &emsp; &emsp;|Eye         &emsp; &emsp; |Cyclops       &emsp; &emsp;| 1 &emsp; &emsp;|            |
-|Aberration &emsp; &emsp;|Subeye         &emsp; &emsp; |Dreamreaver       &emsp; &emsp;| 2 &emsp; &emsp;| 5           |
-|Aberration &emsp; &emsp;|Hide         &emsp; &emsp; |Dreamreaver       &emsp; &emsp;| 1 &emsp; &emsp;| 20           |
-|Aberration &emsp; &emsp;|Bone         &emsp; &emsp; |Dreamreaver       &emsp; &emsp;| 3 &emsp; &emsp;| 10           |
+|Monstrosity &emsp; &emsp;|Phial of Blood            &emsp; &emsp;|Thracian Horse    &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  |
+|Monstrosity &emsp; &emsp;|Eyes                      &emsp; &emsp;|Crocotta          &emsp; &emsp;| 2 &emsp; &emsp;| &emsp; &emsp; 5  |
+|Monstrosity &emsp; &emsp;|Pouch of Teeth            &emsp; &emsp;|Thracian Horse    &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 |
+|Monstrosity &emsp; &emsp;|Heart                     &emsp; &emsp;|Thracian Horse    &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 |
+|Monstrosity &emsp; &emsp;|Pelt                      &emsp; &emsp;|Crocotta          &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 20 |
+|Monstrosity &emsp; &emsp;|Poison Gland              &emsp; &emsp;|Hydra             &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 |
+|Beast       &emsp; &emsp;|Pelt                      &emsp; &emsp;|Golden Lion       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 20 |
+|Undead      &emsp; &emsp;|Pouch of Teeth            &emsp; &emsp;|Golden Lion       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 |
+|Undead      &emsp; &emsp;|Phial of Congealed Blood  &emsp; &emsp;|Golden Lion       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  |
+|Undead      &emsp; &emsp;|Bone                      &emsp; &emsp;|Golden Lion       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  |
+|Undead      &emsp; &emsp;|Undying Flesh             &emsp; &emsp;|Golden Lion       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 |
+|Fey         &emsp; &emsp;|Eye                       &emsp; &emsp;|Centaur           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  |
+|Fey         &emsp; &emsp;|Flesh                     &emsp; &emsp;|Centaur           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  |
+|Fey         &emsp; &emsp;|Phial of Blood            &emsp; &emsp;|Centaur           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  |
+|Fey         &emsp; &emsp;|Liver                     &emsp; &emsp;|Centaur           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 |
+|Fey         &emsp; &emsp;|Heart                     &emsp; &emsp;|Centaur           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 |
+|Fey         &emsp; &emsp;|Pouch of Feathers         &emsp; &emsp;|Suneater          &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 |
+|Fey         &emsp; &emsp;|Sinew                     &emsp; &emsp;|Suneater          &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp;    |
+|Fey         &emsp; &emsp;|Pouch of Feathers         &emsp; &emsp;|Harpy Witch       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 |
+|Fey         &emsp; &emsp;|Eye                       &emsp; &emsp;|Harpy Witch       &emsp; &emsp;| 2 &emsp; &emsp;| &emsp; &emsp; 5  |
+|Construct   &emsp; &emsp;|Lifespark                 &emsp; &emsp;|Marble Golem      &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 25 |
+|Giant       &emsp; &emsp;|Vial of Blood             &emsp; &emsp;|Cyclops           &emsp; &emsp;| 3 &emsp; &emsp;| &emsp; &emsp; 5  |
+|Giant       &emsp; &emsp;|Pouch of Nails            &emsp; &emsp;|Cyclops           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  |
+|Giant       &emsp; &emsp;|Bones                     &emsp; &emsp;|Cyclops           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 |
+|Giant       &emsp; &emsp;|Heart                     &emsp; &emsp;|Cyclops           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 |
+|Giant       &emsp; &emsp;|Eye                       &emsp; &emsp;|Cyclops           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp;    |
+|Aberration  &emsp; &emsp;|Subeye                    &emsp; &emsp;|Dreamreaver       &emsp; &emsp;| 2 &emsp; &emsp;| &emsp; &emsp; 5  |
+|Aberration  &emsp; &emsp;|Hide                      &emsp; &emsp;|Dreamreaver       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 20 |
+|Aberration  &emsp; &emsp;|Bone                      &emsp; &emsp;|Dreamreaver       &emsp; &emsp;| 3 &emsp; &emsp;| &emsp; &emsp; 10 |
 
 ### Mundane Materials
 
