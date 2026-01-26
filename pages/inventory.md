@@ -7,7 +7,7 @@ permalink: '/inventory/'
 ### Statistics
 
 #### Days Traveled: 33
-#### Distance Traveled: 450 miles
+#### Distance Traveled: 600 miles
 #### Legionnaires: 16
 #### Citizens: 30
 
