@@ -6,7 +6,7 @@ permalink: '/inventory/'
 
 ### Statistics
 
-#### Days Traveled: 33
+#### Days Traveled: 34
 #### Distance Traveled: 600 miles
 #### Legionnaires: 16
 #### Citizens: 30
@@ -23,8 +23,8 @@ permalink: '/inventory/'
 
 | Currency | Quantity |
 |:-----|:--------:|
-| Golden Suns (Solarii)     &emsp; &emsp;| 1,650      |
-| Silver Moons (Lunarii)    &emsp; &emsp;| 7,500      |
+| Golden Suns (Solarii)     &emsp; &emsp;| 1,287      |
+| Silver Moons (Lunarii)    &emsp; &emsp;| 7,499      |
 | Gems and Trinkets         &emsp; &emsp;| 1,025gp    |
 | Pearl (Identify)          &emsp; &emsp;| 100gp      |
 
