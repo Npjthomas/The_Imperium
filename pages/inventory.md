@@ -46,7 +46,7 @@ permalink: '/inventory/'
 |Undead      &emsp; &emsp;|Undying Flesh             &emsp; &emsp;|Golden Lion       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 |
 |Undead      &emsp; &emsp;|Pouch of Teeth            &emsp; &emsp;|Skeleton          &emsp; &emsp;| 4 &emsp; &emsp;| &emsp; &emsp; 10 |
 |Undead      &emsp; &emsp;|Bone                      &emsp; &emsp;|Skeleton          &emsp; &emsp;| 4 &emsp; &emsp;| &emsp; &emsp; 5  |
-|Undead      &emsp; &emsp;|Marrow                    &emsp; &emsp;|Skeleton          &emsp; &emsp;| 3 &emsp; &emsp;| &emsp; &emsp; 10  |
+|Undead      &emsp; &emsp;|Marrow                    &emsp; &emsp;|Skeleton          &emsp; &emsp;| 3 &emsp; &emsp;| &emsp; &emsp; 10 |
 |Fey         &emsp; &emsp;|Eye                       &emsp; &emsp;|Centaur           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  |
 |Fey         &emsp; &emsp;|Flesh                     &emsp; &emsp;|Centaur           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  |
 |Fey         &emsp; &emsp;|Phial of Blood            &emsp; &emsp;|Centaur           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  |
@@ -56,8 +56,15 @@ permalink: '/inventory/'
 |Fey         &emsp; &emsp;|Sinew                     &emsp; &emsp;|Suneater          &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 20 |
 |Fey         &emsp; &emsp;|Pouch of Feathers         &emsp; &emsp;|Harpy Witch       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 |
 |Fey         &emsp; &emsp;|Eye                       &emsp; &emsp;|Harpy Witch       &emsp; &emsp;| 2 &emsp; &emsp;| &emsp; &emsp; 5  |
+|Fey         &emsp; &emsp;|Roots                     &emsp; &emsp;|Dryad (Demetria)  &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 |
+|Fey         &emsp; &emsp;|Vines                     &emsp; &emsp;|Dryad (Demetria)  &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 |
+|Fey         &emsp; &emsp;|Sap                       &emsp; &emsp;|Dryad (Demetria)  &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  |
+|Fey         &emsp; &emsp;|Horns                     &emsp; &emsp;|Goatling          &emsp; &emsp;| 2 &emsp; &emsp;| &emsp; &emsp; 10 |
+|Fey         &emsp; &emsp;|Pouch of Teeth            &emsp; &emsp;|Goatling          &emsp; &emsp;| 2 &emsp; &emsp;| &emsp; &emsp; 10 |
+|Fey         &emsp; &emsp;|Phial of Blood            &emsp; &emsp;|Goatling          &emsp; &emsp;| 3 &emsp; &emsp;| &emsp; &emsp; 5  |
+|Plant       &emsp; &emsp;|Roots                     &emsp; &emsp;|Awakened Tree     &emsp; &emsp;| 3 &emsp; &emsp;| &emsp; &emsp; 5  |
 |Construct   &emsp; &emsp;|Lifespark                 &emsp; &emsp;|Marble Golem      &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 25 |
-|Giant       &emsp; &emsp;|Vial of Blood             &emsp; &emsp;|Cyclops           &emsp; &emsp;| 3 &emsp; &emsp;| &emsp; &emsp; 5  |
+|Giant       &emsp; &emsp;|Phial of Blood            &emsp; &emsp;|Cyclops           &emsp; &emsp;| 3 &emsp; &emsp;| &emsp; &emsp; 5  |
 |Giant       &emsp; &emsp;|Pouch of Nails            &emsp; &emsp;|Cyclops           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  |
 |Giant       &emsp; &emsp;|Bones                     &emsp; &emsp;|Cyclops           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 |
 |Giant       &emsp; &emsp;|Heart                     &emsp; &emsp;|Cyclops           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 |
@@ -65,6 +72,8 @@ permalink: '/inventory/'
 |Aberration  &emsp; &emsp;|Subeye                    &emsp; &emsp;|Dreamreaver       &emsp; &emsp;| 2 &emsp; &emsp;| &emsp; &emsp; 5  |
 |Aberration  &emsp; &emsp;|Hide                      &emsp; &emsp;|Dreamreaver       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 20 |
 |Aberration  &emsp; &emsp;|Bone                      &emsp; &emsp;|Dreamreaver       &emsp; &emsp;| 3 &emsp; &emsp;| &emsp; &emsp; 10 |
+|Aberration  &emsp; &emsp;|Horn                      &emsp; &emsp;|Maenad            &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 |
+|Aberration  &emsp; &emsp;|Hide                      &emsp; &emsp;|Goatman           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 20 |
 
 ### Mundane Materials
 
@@ -84,7 +93,7 @@ permalink: '/inventory/'
 
 |Type         |Quantity       |
 |:------------|:-------------:|
-|Frail      &emsp; &emsp; | 1       |
+|Frail      &emsp; &emsp; | 4       |
 |Robust     &emsp; &emsp; | 0       |
 |Potent     &emsp; &emsp; | 0       |
 |Mythic     &emsp; &emsp; | 0       |
