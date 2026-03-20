@@ -33,45 +33,45 @@ permalink: '/inventory/'
 
 |Type         |Component      |Source         |Quantity       |DC               |
 |:------------|:--------------|:--------------|:--------------|----------------:|
-|Monstrosity &emsp; &emsp;|Phial of Blood            &emsp; &emsp;|Thracian Horse    &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  |
-|Monstrosity &emsp; &emsp;|Eyes                      &emsp; &emsp;|Crocotta          &emsp; &emsp;| 2 &emsp; &emsp;| &emsp; &emsp; 5  |
+|Monstrosity &emsp; &emsp;|Phial of Blood            &emsp; &emsp;|Thracian Horse    &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  | <!-- Wand of Magic Missiles -->
+|Monstrosity &emsp; &emsp;|Eyes                      &emsp; &emsp;|Crocotta          &emsp; &emsp;| 2 &emsp; &emsp;| &emsp; &emsp; 5  | <!-- Wand of Detect Magic -->
 |Monstrosity &emsp; &emsp;|Pouch of Teeth            &emsp; &emsp;|Thracian Horse    &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 |
-|Monstrosity &emsp; &emsp;|Heart                     &emsp; &emsp;|Thracian Horse    &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 |
+|Monstrosity &emsp; &emsp;|Heart                     &emsp; &emsp;|Thracian Horse    &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 | !-- Periapt of Health -->
 |Monstrosity &emsp; &emsp;|Pelt                      &emsp; &emsp;|Crocotta          &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 20 |
-|Monstrosity &emsp; &emsp;|Poison Gland              &emsp; &emsp;|Hydra             &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 |
-|Beast       &emsp; &emsp;|Pelt                      &emsp; &emsp;|Golden Lion       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 20 |
-|Undead      &emsp; &emsp;|Pouch of Teeth            &emsp; &emsp;|Golden Lion       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 |
-|Undead      &emsp; &emsp;|Phial of Congealed Blood  &emsp; &emsp;|Golden Lion       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  |
+|Monstrosity &emsp; &emsp;|Poison Gland              &emsp; &emsp;|Hydra             &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 | <!-- Veridian Deceiver -->
+|Beast       &emsp; &emsp;|Pelt                      &emsp; &emsp;|Golden Lion       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 20 | <!-- Golden Lion Pelt -->
+|Undead      &emsp; &emsp;|Pouch of Teeth            &emsp; &emsp;|Golden Lion       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- Vivious Weapon -->
+|Undead      &emsp; &emsp;|Phial of Congealed Blood  &emsp; &emsp;|Golden Lion       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  | <!-- Potion of Necrotic Resistance -->
 |Undead      &emsp; &emsp;|Bone                      &emsp; &emsp;|Golden Lion       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  |
-|Undead      &emsp; &emsp;|Undying Flesh             &emsp; &emsp;|Golden Lion       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 |
-|Undead      &emsp; &emsp;|Pouch of Teeth            &emsp; &emsp;|Skeleton          &emsp; &emsp;| 4 &emsp; &emsp;| &emsp; &emsp; 10 |
+|Undead      &emsp; &emsp;|Undying Flesh             &emsp; &emsp;|Golden Lion       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 | <!-- Armor of Necrotic Resistance -->
+|Undead      &emsp; &emsp;|Pouch of Teeth            &emsp; &emsp;|Skeleton          &emsp; &emsp;| 4 &emsp; &emsp;| &emsp; &emsp; 10 | 
 |Undead      &emsp; &emsp;|Bone                      &emsp; &emsp;|Skeleton          &emsp; &emsp;| 4 &emsp; &emsp;| &emsp; &emsp; 5  |
 |Undead      &emsp; &emsp;|Marrow                    &emsp; &emsp;|Skeleton          &emsp; &emsp;| 3 &emsp; &emsp;| &emsp; &emsp; 10 |
-|Fey         &emsp; &emsp;|Eye                       &emsp; &emsp;|Centaur           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  |
+|Fey         &emsp; &emsp;|Eye                       &emsp; &emsp;|Centaur           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  | <!-- Pendant of Charming, Lantern of Revealing -->
 |Fey         &emsp; &emsp;|Flesh                     &emsp; &emsp;|Centaur           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  |
-|Fey         &emsp; &emsp;|Phial of Blood            &emsp; &emsp;|Centaur           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  |
+|Fey         &emsp; &emsp;|Phial of Blood            &emsp; &emsp;|Centaur           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  | <!-- Philter of Love -->
 |Fey         &emsp; &emsp;|Liver                     &emsp; &emsp;|Centaur           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 |
 |Fey         &emsp; &emsp;|Heart                     &emsp; &emsp;|Centaur           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 |
-|Fey         &emsp; &emsp;|Pouch of Feathers         &emsp; &emsp;|Suneater          &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 |
-|Fey         &emsp; &emsp;|Sinew                     &emsp; &emsp;|Suneater          &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 20 |
+|Fey         &emsp; &emsp;|Pouch of Feathers         &emsp; &emsp;|Suneater          &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 | <!-- Sunfeather Shroud -->
+|Fey         &emsp; &emsp;|Sinew                     &emsp; &emsp;|Suneater          &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 20 | <!-- Sunwing Bow -->
 |Fey         &emsp; &emsp;|Pouch of Feathers         &emsp; &emsp;|Harpy Witch       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 |
-|Fey         &emsp; &emsp;|Eye                       &emsp; &emsp;|Harpy Witch       &emsp; &emsp;| 2 &emsp; &emsp;| &emsp; &emsp; 5  |
-|Fey         &emsp; &emsp;|Roots                     &emsp; &emsp;|Dryad (Demetria)  &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 |
-|Fey         &emsp; &emsp;|Vines                     &emsp; &emsp;|Dryad (Demetria)  &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 |
-|Fey         &emsp; &emsp;|Sap                       &emsp; &emsp;|Dryad (Demetria)  &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  |
-|Fey         &emsp; &emsp;|Horns                     &emsp; &emsp;|Goatling          &emsp; &emsp;| 2 &emsp; &emsp;| &emsp; &emsp; 10 |
-|Fey         &emsp; &emsp;|Pouch of Teeth            &emsp; &emsp;|Goatling          &emsp; &emsp;| 2 &emsp; &emsp;| &emsp; &emsp; 10 |
+|Fey         &emsp; &emsp;|Eye                       &emsp; &emsp;|Harpy Witch       &emsp; &emsp;| 2 &emsp; &emsp;| &emsp; &emsp; 5  | <!-- Pendant of Charming, Lantern of Revealing -->
+|Fey         &emsp; &emsp;|Roots                     &emsp; &emsp;|Dryad (Demetria)  &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- Nature's Vengeance -->
+|Fey         &emsp; &emsp;|Vines                     &emsp; &emsp;|Dryad (Demetria)  &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- Bloom Stalkers -->
+|Fey         &emsp; &emsp;|Sap                       &emsp; &emsp;|Dryad (Demetria)  &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  | <!-- Quick Grow Acorns -->
+|Fey         &emsp; &emsp;|Horns                     &emsp; &emsp;|Goatling          &emsp; &emsp;| 2 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- Aulos of Haunting -->
+|Fey         &emsp; &emsp;|Pouch of Teeth            &emsp; &emsp;|Goatling          &emsp; &emsp;| 2 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- Amulet of Proof Against Location and Detection -->
 |Fey         &emsp; &emsp;|Phial of Blood            &emsp; &emsp;|Goatling          &emsp; &emsp;| 3 &emsp; &emsp;| &emsp; &emsp; 5  |
-|Plant       &emsp; &emsp;|Roots                     &emsp; &emsp;|Awakened Tree     &emsp; &emsp;| 3 &emsp; &emsp;| &emsp; &emsp; 5  |
+|Plant       &emsp; &emsp;|Roots                     &emsp; &emsp;|Awakened Tree     &emsp; &emsp;| 3 &emsp; &emsp;| &emsp; &emsp; 5  | <!-- Ring of Birdseye Maple -->
 |Construct   &emsp; &emsp;|Lifespark                 &emsp; &emsp;|Marble Golem      &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 25 |
-|Giant       &emsp; &emsp;|Phial of Blood            &emsp; &emsp;|Cyclops           &emsp; &emsp;| 3 &emsp; &emsp;| &emsp; &emsp; 5  |
-|Giant       &emsp; &emsp;|Pouch of Nails            &emsp; &emsp;|Cyclops           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  |
+|Giant       &emsp; &emsp;|Phial of Blood            &emsp; &emsp;|Cyclops           &emsp; &emsp;| 3 &emsp; &emsp;| &emsp; &emsp; 5  | <!-- Potion of Growth -->
+|Giant       &emsp; &emsp;|Pouch of Nails            &emsp; &emsp;|Cyclops           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  | <!-- Potion of "Hill" Giant Strength -->
 |Giant       &emsp; &emsp;|Bones                     &emsp; &emsp;|Cyclops           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 |
 |Giant       &emsp; &emsp;|Heart                     &emsp; &emsp;|Cyclops           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 |
-|Giant       &emsp; &emsp;|Eye                       &emsp; &emsp;|Cyclops           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 |
+|Giant       &emsp; &emsp;|Eye                       &emsp; &emsp;|Cyclops           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 | <!-- Cyclopean Shield -->
 |Aberration  &emsp; &emsp;|Subeye                    &emsp; &emsp;|Dreamreaver       &emsp; &emsp;| 2 &emsp; &emsp;| &emsp; &emsp; 5  |
 |Aberration  &emsp; &emsp;|Hide                      &emsp; &emsp;|Dreamreaver       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 20 |
-|Aberration  &emsp; &emsp;|Bone                      &emsp; &emsp;|Dreamreaver       &emsp; &emsp;| 3 &emsp; &emsp;| &emsp; &emsp; 10 |
+|Aberration  &emsp; &emsp;|Bone                      &emsp; &emsp;|Dreamreaver       &emsp; &emsp;| 3 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- Time Splitter -->
 |Aberration  &emsp; &emsp;|Horn                      &emsp; &emsp;|Maenad            &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 |
 |Aberration  &emsp; &emsp;|Hide                      &emsp; &emsp;|Goatman           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 20 |
 
