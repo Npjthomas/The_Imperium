@@ -7,7 +7,7 @@ _date: Anno 3536
 object_type: map
 current_location: The Lost
 source: 
-order: '1'
+order: '01'
 layout: imperium_item
 collection: imperium
 thumbnail: "/img/derivatives/iiif/images/obj2/full/250,/0/default.jpg"
