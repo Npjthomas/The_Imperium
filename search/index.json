@@ -3,7 +3,7 @@ layout: none
 ---
 [
   {
-    "pid": "obj1",
+    "pid": "obj001",
     "artist": "Nicodemus the Doran",
     "location": "Theia",
     "label": "Map of the Imperium",
@@ -11,38 +11,12 @@ layout: none
     "object_type": "map",
     "current_location": "Imperium Capital Library of Academia Populai",
     "collection": "imperium",
-    "thumbnail": "/img/derivatives/iiif/images/obj1/full/250,/0/default.jpg",
-    "permalink": "/imperium/obj1",
+    "thumbnail": "/img/derivatives/iiif/images/obj001/full/250,/0/default.jpg",
+    "permalink": "/imperium/obj001",
     "lunr_id": 0
   },
   {
-    "pid": "obj10",
-    "artist": "Braxus the Archarnian",
-    "location": "Theia",
-    "label": "Naturalist drawing of Psysserian Death Moth",
-    "_date": "Anno 3536",
-    "object_type": "sketch",
-    "current_location": "Crixus, Hypernotus",
-    "collection": "imperium",
-    "thumbnail": "/img/derivatives/iiif/images/obj10/full/250,/0/default.jpg",
-    "permalink": "/imperium/obj10",
-    "lunr_id": 1
-  },
-  {
-    "pid": "obj11",
-    "artist": "Marko of Vici Umbra",
-    "location": "Theia",
-    "label": "Drawing plans of \"The Arca\"",
-    "_date": "Anno 3536",
-    "object_type": "sketch",
-    "current_location": "Crixus, Hypernotus",
-    "collection": "imperium",
-    "thumbnail": "/img/derivatives/iiif/images/obj11/full/250,/0/default.jpg",
-    "permalink": "/imperium/obj11",
-    "lunr_id": 2
-  },
-  {
-    "pid": "obj2",
+    "pid": "obj002",
     "artist": "Sadikos, The Laughing Shade",
     "location": "Theia",
     "label": "Map of the Journey of 'The Lost'",
@@ -50,12 +24,12 @@ layout: none
     "object_type": "map",
     "current_location": "The Lost",
     "collection": "imperium",
-    "thumbnail": "/img/derivatives/iiif/images/obj2/full/250,/0/default.jpg",
-    "permalink": "/imperium/obj2",
-    "lunr_id": 3
+    "thumbnail": "/img/derivatives/iiif/images/obj002/full/250,/0/default.jpg",
+    "permalink": "/imperium/obj002",
+    "lunr_id": 1
   },
   {
-    "pid": "obj3",
+    "pid": "obj003",
     "artist": "Unknown",
     "location": "Theia",
     "label": "Pottery shard depicting \"Lesser Hundred-Handed One\"",
@@ -63,25 +37,25 @@ layout: none
     "object_type": "artifact",
     "current_location": "The Lost",
     "collection": "imperium",
-    "thumbnail": "/img/derivatives/iiif/images/obj3/full/250,/0/default.jpg",
-    "permalink": "/imperium/obj3",
-    "lunr_id": 4
+    "thumbnail": "/img/derivatives/iiif/images/obj003/full/250,/0/default.jpg",
+    "permalink": "/imperium/obj003",
+    "lunr_id": 2
   },
   {
-    "pid": "obj4",
+    "pid": "obj004",
     "artist": "Unknown",
     "location": "Theia",
-    "label": "Clay tablet inscribed with record of Gigantomachy",
+    "label": "Clay tablet incribed with record of Gigantomachy",
     "_date": "Unknown",
     "object_type": "artifact",
     "current_location": "The Lost",
     "collection": "imperium",
-    "thumbnail": "/img/derivatives/iiif/images/obj4/full/250,/0/default.jpg",
-    "permalink": "/imperium/obj4",
-    "lunr_id": 5
+    "thumbnail": "/img/derivatives/iiif/images/obj004/full/250,/0/default.jpg",
+    "permalink": "/imperium/obj004",
+    "lunr_id": 3
   },
   {
-    "pid": "obj5",
+    "pid": "obj005",
     "artist": "Unknown",
     "location": "Theia",
     "label": "Depiction of statue found under ancient rotunda ",
@@ -89,12 +63,12 @@ layout: none
     "object_type": "artifact",
     "current_location": "Hypernotus",
     "collection": "imperium",
-    "thumbnail": "/img/derivatives/iiif/images/obj5/full/250,/0/default.jpg",
-    "permalink": "/imperium/obj5",
-    "lunr_id": 6
+    "thumbnail": "/img/derivatives/iiif/images/obj005/full/250,/0/default.jpg",
+    "permalink": "/imperium/obj005",
+    "lunr_id": 4
   },
   {
-    "pid": "obj6",
+    "pid": "obj006",
     "artist": "Unknown",
     "location": "Theia",
     "label": "Depiction of the Oneiros",
@@ -102,12 +76,12 @@ layout: none
     "object_type": "artifact",
     "current_location": "Anapausis, Hypernotus",
     "collection": "imperium",
-    "thumbnail": "/img/derivatives/iiif/images/obj6/full/250,/0/default.jpg",
-    "permalink": "/imperium/obj6",
-    "lunr_id": 7
+    "thumbnail": "/img/derivatives/iiif/images/obj006/full/250,/0/default.jpg",
+    "permalink": "/imperium/obj006",
+    "lunr_id": 5
   },
   {
-    "pid": "obj7",
+    "pid": "obj007",
     "artist": "Unknown",
     "location": "Theia",
     "label": "Amphora of the Dreamreaver",
@@ -115,12 +89,12 @@ layout: none
     "object_type": "artifact",
     "current_location": "Anapausis, Hypernotus",
     "collection": "imperium",
-    "thumbnail": "/img/derivatives/iiif/images/obj7/full/250,/0/default.jpg",
-    "permalink": "/imperium/obj7",
-    "lunr_id": 8
+    "thumbnail": "/img/derivatives/iiif/images/obj007/full/250,/0/default.jpg",
+    "permalink": "/imperium/obj007",
+    "lunr_id": 6
   },
   {
-    "pid": "obj8",
+    "pid": "obj008",
     "artist": "Sadikos, The Laughing Shade",
     "location": "Theia",
     "label": "Map of Crixus",
@@ -128,12 +102,12 @@ layout: none
     "object_type": "map",
     "current_location": "Crixus, Hypernotus",
     "collection": "imperium",
-    "thumbnail": "/img/derivatives/iiif/images/obj8/full/250,/0/default.jpg",
-    "permalink": "/imperium/obj8",
-    "lunr_id": 9
+    "thumbnail": "/img/derivatives/iiif/images/obj008/full/250,/0/default.jpg",
+    "permalink": "/imperium/obj008",
+    "lunr_id": 7
   },
   {
-    "pid": "obj9",
+    "pid": "obj009",
     "artist": "Braxus the Archarnian",
     "location": "Theia",
     "label": "Naturalist drawing of Psysserian Silkworms",
@@ -141,8 +115,34 @@ layout: none
     "object_type": "sketch",
     "current_location": "Crixus, Hypernotus",
     "collection": "imperium",
-    "thumbnail": "/img/derivatives/iiif/images/obj9/full/250,/0/default.jpg",
-    "permalink": "/imperium/obj9",
+    "thumbnail": "/img/derivatives/iiif/images/obj009/full/250,/0/default.jpg",
+    "permalink": "/imperium/obj009",
+    "lunr_id": 8
+  },
+  {
+    "pid": "obj010",
+    "artist": "Braxus the Archarnian",
+    "location": "Theia",
+    "label": "Naturalist drawing of Psysserian Death Moth",
+    "_date": "Anno 3536",
+    "object_type": "sketch",
+    "current_location": "Crixus, Hypernotus",
+    "collection": "imperium",
+    "thumbnail": "/img/derivatives/iiif/images/obj010/full/250,/0/default.jpg",
+    "permalink": "/imperium/obj010",
+    "lunr_id": 9
+  },
+  {
+    "pid": "obj011",
+    "artist": "Marko of Vici Umbra",
+    "location": "Theia",
+    "label": "Drawing plans of \"The Arca\"",
+    "_date": "Anno 3536",
+    "object_type": "sketch",
+    "current_location": "Crixus, Hypernotus",
+    "collection": "imperium",
+    "thumbnail": "/img/derivatives/iiif/images/obj011/full/250,/0/default.jpg",
+    "permalink": "/imperium/obj011",
     "lunr_id": 10
   }
 ]
