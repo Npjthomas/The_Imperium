@@ -24,7 +24,7 @@ permalink: '/inventory/'
 | Currency | Quantity |
 |:-----|:--------:|
 | Golden Suns (Solarii)     &emsp; &emsp;| 1,287      |
-| Silver Moons (Lunarii)    &emsp; &emsp;| 7,499      |
+| Silver Moons (Lunarii)    &emsp; &emsp;| 4,499      |
 | Gems and Trinkets         &emsp; &emsp;| 1,025gp    |
 | Pearl (Identify)          &emsp; &emsp;| 100gp      |
 
@@ -103,6 +103,7 @@ permalink: '/inventory/'
 
 |Item         |Quantity       |
 |:------------|:-------------:|
+|Game of 20 Squares                            &emsp; &emsp;| 1       |
 |Predator's Whistle                            &emsp; &emsp;| 1       |
 |Arrow of Covella                              &emsp; &emsp;| 4       |
 |Libation of Calm Waters                       &emsp; &emsp;| 1       |
