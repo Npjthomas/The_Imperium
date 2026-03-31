@@ -144,5 +144,18 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/obj011/full/250,/0/default.jpg",
     "permalink": "/imperium/obj011",
     "lunr_id": 10
+  },
+  {
+    "pid": "obj012",
+    "artist": "Dwarven Miners of Crixus",
+    "location": "Theia",
+    "label": "Map of Orichalcum Mine",
+    "_date": "Anno 3536",
+    "object_type": "map",
+    "current_location": "Crixus, Hypernotus",
+    "collection": "imperium",
+    "thumbnail": "/img/derivatives/iiif/images/obj012/full/250,/0/default.jpg",
+    "permalink": "/imperium/obj012",
+    "lunr_id": 11
   }
 ]
