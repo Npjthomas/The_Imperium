@@ -23,8 +23,8 @@ permalink: '/inventory/'
 
 | Currency | Quantity |
 |:-----|:--------:|
-| Golden Suns (Solarii)     &emsp; &emsp;| 1,287      |
-| Silver Moons (Lunarii)    &emsp; &emsp;| 4,499      |
+| Golden Suns (Solarii)     &emsp; &emsp;| 1,277      |
+| Silver Moons (Lunarii)    &emsp; &emsp;| 4,491      |
 | Gems and Trinkets         &emsp; &emsp;| 1,025gp    |
 | Pearl (Identify)          &emsp; &emsp;| 100gp      |
 
@@ -39,6 +39,11 @@ permalink: '/inventory/'
 |Monstrosity &emsp; &emsp;|Heart                     &emsp; &emsp;|Thracian Horse    &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 | <!-- Periapt of Health -->
 |Monstrosity &emsp; &emsp;|Pelt                      &emsp; &emsp;|Crocotta          &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 20 |
 |Monstrosity &emsp; &emsp;|Poison Gland              &emsp; &emsp;|Hydra             &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 | <!-- Veridian Deceiver -->
+|Monstrosity &emsp; &emsp;|Antenna                   &emsp; &emsp;|Myrmeke           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  | <!-- Wand of Enemy Detection-->
+|Monstrosity &emsp; &emsp;|Pincer                    &emsp; &emsp;|Myrmeke           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- Rope of Entanglement -->
+|Monstrosity &emsp; &emsp;|Claws                     &emsp; &emsp;|Myrmeke           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- +2 Weapon? -->
+|Monstrosity &emsp; &emsp;|Fat                       &emsp; &emsp;|Myrmeke           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 | <!-- Potion of Superior Healing -->
+|Monstrosity &emsp; &emsp;|Chitin                    &emsp; &emsp;|Myrmeke           &emsp; &emsp;| 2 &emsp; &emsp;| &emsp; &emsp; 20 | <!-- Bracers of Defense-->
 |Beast       &emsp; &emsp;|Pelt                      &emsp; &emsp;|Golden Lion       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 20 | <!-- Golden Lion Pelt -->
 |Undead      &emsp; &emsp;|Pouch of Teeth            &emsp; &emsp;|Golden Lion       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- Vivious Weapon -->
 |Undead      &emsp; &emsp;|Phial of Congealed Blood  &emsp; &emsp;|Golden Lion       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  | <!-- Potion of Necrotic Resistance -->
@@ -74,6 +79,9 @@ permalink: '/inventory/'
 |Aberration  &emsp; &emsp;|Bone                      &emsp; &emsp;|Dreamreaver       &emsp; &emsp;| 3 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- Time Splitter -->
 |Aberration  &emsp; &emsp;|Horn                      &emsp; &emsp;|Maenad            &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 |
 |Aberration  &emsp; &emsp;|Hide                      &emsp; &emsp;|Goatman           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 20 |
+|Humanoid    &emsp; &emsp;|Eye                       &emsp; &emsp;|Myrmeke Advanced  &emsp; &emsp;| 2 &emsp; &emsp;| &emsp; &emsp; 5  | <!-- Gogles of Night? -->
+|Humanoid    &emsp; &emsp;|Liver                     &emsp; &emsp;|Myrmeke Advanced  &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 | <!-- Ring of Psychic Sesitance -->
+|Humanoid    &emsp; &emsp;|Brain                     &emsp; &emsp;|Myrmeke Advanced  &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 20 | <!-- Headband of Intellect -->
 
 ### Mundane Materials
 
