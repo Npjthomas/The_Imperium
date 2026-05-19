@@ -101,7 +101,16 @@ permalink: '/crafting/'
     <div>
     {% include card_flip.html item="Philter of Love" content="Rarity: Uncommon <br> Base: Potion Base  <br> Component: Fey Phial of Blood <br> Time: 4 Hours <br><br> The next time you see a creature within <b>10 minutes</b> after drinking this philter, you become <b>charmed</b> by that creature for <b>1 hour.</b> If the creature is of a species and gender you are normally attracted to, you regard it as your true love while you are charmed. <br><br>This potion's rose-hued, effervescent liquid contains one easy-to-miss bubble shaped like a heart." url="https://github.com/Npjthomas/The_Imperium/blob/main/items/Card_Philter_of_Love.png?raw=true" %} 
     </div>
-        <div>
+    <div>
+    {% include card_flip.html item="Potion of Healing" content="Rarity: Common <br> Base: Potion Base  <br> Component: Beast Fat <br> Time: 0.5 Hours <br><br> You regain 2d4 + 2 Hit Points when you drink this potion. <br><br>The potion’s red liquid glimmers when agitated." url="https://github.com/Npjthomas/The_Imperium/blob/main/items/Card_Potion_of_Healing.png?raw=true" %} 
+    </div>
+    <div>
+    {% include card_flip.html item="Potion of Greater Healing" content="Rarity: Uncommon <br> Base: Potion Base  <br> Component: Beast Liver <br> Time: 4 Hours <br><br> You regain 4d4 + 4 Hit Points when you drink this potion. <br><br>The potion’s red liquid glimmers when agitated." url="https://github.com/Npjthomas/The_Imperium/blob/main/items/Card_Potion_of_Healing.png?raw=true" %} 
+    </div>
+    <div>
     {% include card_flip.html item="Potion of Superior Healing" content="Rarity: Rare <br> Base: Potion Base  <br> Component: Monstrosity Liver <br> Time: 20 Hours <br><br> You regain 8d4 + 8 Hit Points when you drink this potion. <br><br>The potion’s red liquid glimmers when agitated." url="https://github.com/Npjthomas/The_Imperium/blob/main/items/Card_Potion_of_Superior_Healing.png?raw=true" %} 
-    </div>        
+    </div>
+    <div>
+    {% include card_flip.html item="Potion of Supreme Healing" content="Rarity: Very Rare <br> Base: Potion Base  <br> Component: Monstrosity Fat and Liver <br> Time: 80 Hours <br><br> You regain 10d4 + 20 Hit Points when you drink this potion. <br><br>The potion’s red liquid glimmers when agitated." url="https://github.com/Npjthomas/The_Imperium/blob/main/items/Card_Potion_of_Superior_Healing.png?raw=true" %} 
+    </div>           
 </div>
