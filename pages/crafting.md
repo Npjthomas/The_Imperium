@@ -81,6 +81,15 @@ permalink: '/crafting/'
     {% include card_flip.html item="Nature's Vengeance" content="Rarity: Uncommon [Upgradable] <br>Base: Scimitar or Sickle <br> Component: Roots [Dryad] <br> Time: 20 Hours <br><br>This weapon has <b>8 charges</b> and regains <b>1d6 + 2</b> expended charges daily at dawn.<br><br><b><i>Steal Life.</i></b> When you hit a non-construct creature with an attack roll using this weapon, you can expend <b>1 charge</b> to syphon the target’s life force. The target must make a <b>DC 13 Constitution</b> saving throw, taking <b>1d6 necrotic damage</b> on a failed save, or half as much damage on a successful one. You gain hit points equal to half the necrotic damage taken." url="https://github.com/Npjthomas/The_Imperium/blob/main/items/Card_Natures_Vengeance.png?raw=true" %} 
     </div>
     <div>
+    {% include card_flip.html item="Bracers of Defense" content="Rarity: Rare <br>Base: Bracers <br> Component: Chitin [Myrmeke] <br> Time: 20 Hours <br><br>While wearing these bracers, you gain a <b>+2 bonus</b> to <b><i>Armor Class</i></b> if you are wearing no armor and using no Shield." url="https://github.com/Npjthomas/The_Imperium/blob/main/items/Card_Bracers_of_Defense.png?raw=true" %} 
+    </div>
+    <div>
+    {% include card_flip.html item="Magehunter Blade" content="Rarity: Rare <br>Base: Orichalcum Sword <br> Component: Claws [Cerberus] <br> Time: 80 Hours <br><br>You gain a +1 bonus to attack and damage rolls made with this magic weapon. <br><b><i>Unravel Magic.</b></i> When you hit a target that is under the effect of one or more spells with an attack using this weapon, you can choose to dispel one of the spells affecting it if the spell is of <b>3th level or lower</b>. If you do, the target takes <b>1d6 force damage</b> for each level of the spell (dispelled cantrips deal no extra damage). Once a spell is dispelled, roll a <b>d4</b>. If the number is equal to or lower than the level of the dispelled spell, this property can’t be used again until the next dawn." url="https://github.com/Npjthomas/The_Imperium/blob/main/items/Card_Back.png?raw=true" %} 
+    </div>
+    <div>
+    {% include card_flip.html item="Magehunter Bulwark" content="Rarity: Rare <br>Base: Orichalcum Shield <br> Component: Bones [Cerberus] <br> Time: 80 Hours <br><br>While holding this shield, you have a <b>+1 bonus to AC</b>. This bonus is in addition to the shield’s normal bonus to AC.<br><b><i>Deflect Spell.</i></b> When you are hit by a spell attack or subjected to a spell or magical effect that allows you to make a <b>Dexterity</b> saving throw to reduce or avoid the damage taken while holding this shield, you can use your <b><i>reaction</i></b> to deflect some of the spell’s energy. When you do so, the damage you take from the attack or effect is reduced by <b>2d10<b>. <br>If you reduce the damage to 0, the spell has no effect on you, and you can attempt to reflect the spell’s raw energy at its origin. Make a ranged <b>attack roll (+7 to hit)</b> against the target, dealing force damage equal to the result of your <b>2d10</b> roll on a hit. Once this property of the shield has been used, roll a <b>d4</b>. On a 1, it can’t be used again until the next dawn." url="https://github.com/Npjthomas/The_Imperium/blob/main/items/Card_Back.png?raw=true" %} 
+    </div>
+    <div>
     {% include card_flip.html item="Potion of Necrotic Resistance" content="Rarity: Uncommon <br> Base: Potion Base  <br> Component: Undead Congealed Blood <br> Time: 4 Hours <br><br> When you drink this potion, you gain <b>Resistance</b> to <i>necrotic damage</i> for 1 hour." url="https://github.com/Npjthomas/The_Imperium/blob/main/items/Card_Potion_of_Resistance_Necrotic.png?raw=true" %} 
     </div>
     <div>
@@ -91,5 +100,8 @@ permalink: '/crafting/'
     </div>
     <div>
     {% include card_flip.html item="Philter of Love" content="Rarity: Uncommon <br> Base: Potion Base  <br> Component: Fey Phial of Blood <br> Time: 4 Hours <br><br> The next time you see a creature within <b>10 minutes</b> after drinking this philter, you become <b>charmed</b> by that creature for <b>1 hour.</b> If the creature is of a species and gender you are normally attracted to, you regard it as your true love while you are charmed. <br><br>This potion's rose-hued, effervescent liquid contains one easy-to-miss bubble shaped like a heart." url="https://github.com/Npjthomas/The_Imperium/blob/main/items/Card_Philter_of_Love.png?raw=true" %} 
+    </div>
+        <div>
+    {% include card_flip.html item="Potion of Superior Healing" content="Rarity: Rare <br> Base: Potion Base  <br> Component: Monstrosity Liver <br> Time: 20 Hours <br><br> You regain 8d4 + 8 Hit Points when you drink this potion. <br><br>The potion’s red liquid glimmers when agitated." url="https://github.com/Npjthomas/The_Imperium/blob/main/items/Card_Potion_of_Superior_Healing.png?raw=true" %} 
     </div>        
 </div>

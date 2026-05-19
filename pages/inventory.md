@@ -23,7 +23,7 @@ permalink: '/inventory/'
 
 | Currency | Quantity |
 |:-----|:--------:|
-| Golden Suns (Solarii)     &emsp; &emsp;| 1,277      |
+| Golden Suns (Solarii)     &emsp; &emsp;| 1,627      |
 | Silver Moons (Lunarii)    &emsp; &emsp;| 4,491      |
 | Gems and Trinkets         &emsp; &emsp;| 1,025gp    |
 | Pearl (Identify)          &emsp; &emsp;| 100gp      |
@@ -44,6 +44,12 @@ permalink: '/inventory/'
 |Monstrosity &emsp; &emsp;|Claws                     &emsp; &emsp;|Myrmeke           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- +2 Weapon? -->
 |Monstrosity &emsp; &emsp;|Fat                       &emsp; &emsp;|Myrmeke           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 | <!-- Potion of Superior Healing -->
 |Monstrosity &emsp; &emsp;|Chitin                    &emsp; &emsp;|Myrmeke           &emsp; &emsp;| 2 &emsp; &emsp;| &emsp; &emsp; 20 | <!-- Bracers of Defense-->
+|Monstrosity &emsp; &emsp;|Claws                     &emsp; &emsp;|Shadow Mastiff    &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 | 
+|Monstrosity &emsp; &emsp;|Ether                     &emsp; &emsp;|Shadow Mastiff    &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 | 
+|Monstrosity &emsp; &emsp;|Liver                     &emsp; &emsp;|Shadow Mastiff    &emsp; &emsp;| 3 &emsp; &emsp;| &emsp; &emsp; 10 | 
+|Monstrosity &emsp; &emsp;|Hide                      &emsp; &emsp;|Shadow Mastiff    &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 20 | 
+|Monstrosity &emsp; &emsp;|Claws                     &emsp; &emsp;|Cerberus          &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 | 
+|Monstrosity &emsp; &emsp;|Bones                     &emsp; &emsp;|Cerberus          &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 | 
 |Beast       &emsp; &emsp;|Pelt                      &emsp; &emsp;|Golden Lion       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 20 | <!-- Golden Lion Pelt -->
 |Undead      &emsp; &emsp;|Pouch of Teeth            &emsp; &emsp;|Golden Lion       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- Vivious Weapon -->
 |Undead      &emsp; &emsp;|Phial of Congealed Blood  &emsp; &emsp;|Golden Lion       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  | <!-- Potion of Necrotic Resistance -->
@@ -57,7 +63,6 @@ permalink: '/inventory/'
 |Fey         &emsp; &emsp;|Phial of Blood            &emsp; &emsp;|Centaur           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  | <!-- Philter of Love -->
 |Fey         &emsp; &emsp;|Liver                     &emsp; &emsp;|Centaur           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 |
 |Fey         &emsp; &emsp;|Heart                     &emsp; &emsp;|Centaur           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 |
-|Fey         &emsp; &emsp;|Pouch of Feathers         &emsp; &emsp;|Suneater          &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 | <!-- Sunfeather Shroud -->
 |Fey         &emsp; &emsp;|Sinew                     &emsp; &emsp;|Suneater          &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 20 | <!-- Sunwing Bow -->
 |Fey         &emsp; &emsp;|Pouch of Feathers         &emsp; &emsp;|Harpy Witch       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 |
 |Fey         &emsp; &emsp;|Eye                       &emsp; &emsp;|Harpy Witch       &emsp; &emsp;| 2 &emsp; &emsp;| &emsp; &emsp; 5  | <!-- Pendant of Charming, Lantern of Revealing -->
@@ -80,8 +85,10 @@ permalink: '/inventory/'
 |Aberration  &emsp; &emsp;|Horn                      &emsp; &emsp;|Maenad            &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 |
 |Aberration  &emsp; &emsp;|Hide                      &emsp; &emsp;|Goatman           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 20 |
 |Humanoid    &emsp; &emsp;|Eye                       &emsp; &emsp;|Myrmeke Advanced  &emsp; &emsp;| 2 &emsp; &emsp;| &emsp; &emsp; 5  | <!-- Gogles of Night? -->
-|Humanoid    &emsp; &emsp;|Liver                     &emsp; &emsp;|Myrmeke Advanced  &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 | <!-- Ring of Psychic Sesitance -->
+|Humanoid    &emsp; &emsp;|Liver                     &emsp; &emsp;|Myrmeke Advanced  &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 | <!-- Ring of Psychic Resitance -->
 |Humanoid    &emsp; &emsp;|Brain                     &emsp; &emsp;|Myrmeke Advanced  &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 20 | <!-- Headband of Intellect -->
+
+
 
 ### Mundane Materials
 
@@ -101,8 +108,8 @@ permalink: '/inventory/'
 
 |Type         |Quantity       |
 |:------------|:-------------:|
-|Frail      &emsp; &emsp; | 4       |
-|Robust     &emsp; &emsp; | 0       |
+|Frail      &emsp; &emsp; | 3       |
+|Robust     &emsp; &emsp; | 1       |
 |Potent     &emsp; &emsp; | 0       |
 |Mythic     &emsp; &emsp; | 0       |
 |Deific     &emsp; &emsp; | 0       |
@@ -122,3 +129,5 @@ permalink: '/inventory/'
 |Demos's Warspear (+1)                         &emsp; &emsp;| 1       |
 |Second Chance                                 &emsp; &emsp;| 1       |
 |Shortbows                                     &emsp; &emsp;| 3       |
+|Ancient Hoplon                                &emsp; &emsp;| 1       |
+|Ancient Potions of Greater Healing            &emsp; &emsp;| 2       |
