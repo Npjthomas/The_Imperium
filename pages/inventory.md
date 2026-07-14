@@ -23,7 +23,7 @@ permalink: '/inventory/'
 
 | Currency | Quantity |
 |:-----|:--------:|
-| Golden Suns (Solarii)     &emsp; &emsp;| 564      |
+| Golden Suns (Solarii)     &emsp; &emsp;| 1014      |
 | Silver Moons (Lunarii)    &emsp; &emsp;| 4,487      |
 | Gems and Trinkets         &emsp; &emsp;| 1,025gp    |
 | Pearl (Identify)          &emsp; &emsp;| 100gp      |
@@ -96,7 +96,7 @@ permalink: '/inventory/'
 |:------------|:--------------|:-------------:|
 |Flax               &emsp; &emsp; |Raw          &emsp; &emsp;| 3s               |
 |Copper Ore         &emsp; &emsp; |Raw          &emsp; &emsp;| 25g              |
-|Black Laurel Wood  &emsp; &emsp; |Raw          &emsp; &emsp;| 150g             |
+|Black Laurel Wood  &emsp; &emsp; |Raw          &emsp; &emsp;| 126g             |
 |2 Steel Swords     &emsp; &emsp; |Refined      &emsp; &emsp;| 5g (salvaged)    |
 |2 Bronze Swords    &emsp; &emsp; |Refined      &emsp; &emsp;| 3g (salvaged)    |
 |3 Bronze Spears    &emsp; &emsp; |Refined      &emsp; &emsp;| 5s (salvaged)    |
