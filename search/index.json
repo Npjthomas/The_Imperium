@@ -157,5 +157,31 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/obj012/full/250,/0/default.jpg",
     "permalink": "/imperium/obj012",
     "lunr_id": 11
+  },
+  {
+    "pid": "obj013",
+    "artist": "Sadikos, The Laughing Shade",
+    "location": "Theia",
+    "label": "Map of Thule",
+    "_date": "Anno 3536",
+    "object_type": "map",
+    "current_location": "Thule, Hypernotus",
+    "collection": "imperium",
+    "thumbnail": "/img/derivatives/iiif/images/obj013/full/250,/0/default.jpg",
+    "permalink": "/imperium/obj013",
+    "lunr_id": 12
+  },
+  {
+    "pid": "obj014",
+    "artist": "Unknown",
+    "location": "Theia",
+    "label": "Mysterious Symbol",
+    "_date": "Anno 3536",
+    "object_type": "sketch",
+    "current_location": "Thule, Hypernotus",
+    "collection": "imperium",
+    "thumbnail": "/img/derivatives/iiif/images/obj014/full/250,/0/default.jpg",
+    "permalink": "/imperium/obj014",
+    "lunr_id": 13
   }
 ]
