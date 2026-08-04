@@ -50,6 +50,7 @@ permalink: '/inventory/'
 |Monstrosity &emsp; &emsp;|Hide                      &emsp; &emsp;|Shadow Mastiff    &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 20 | 
 |Monstrosity &emsp; &emsp;|Claws                     &emsp; &emsp;|Cerberus          &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 | 
 |Monstrosity &emsp; &emsp;|Bones                     &emsp; &emsp;|Cerberus          &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 | 
+|Monstrosity &emsp; &emsp;|Pouch of Feathers         &emsp; &emsp;|Stimfey           &emsp; &emsp;| 7 &emsp; &emsp;| &emsp; &emsp; 10 | 
 |Beast       &emsp; &emsp;|Pelt                      &emsp; &emsp;|Golden Lion       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 20 | <!-- Golden Lion Pelt -->
 |Undead      &emsp; &emsp;|Pouch of Teeth            &emsp; &emsp;|Golden Lion       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- Vivious Weapon -->
 |Undead      &emsp; &emsp;|Phial of Congealed Blood  &emsp; &emsp;|Golden Lion       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  | <!-- Potion of Necrotic Resistance -->
