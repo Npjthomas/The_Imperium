@@ -23,8 +23,8 @@ permalink: '/inventory/'
 
 | Currency | Quantity |
 |:-----|:--------:|
-| Golden Suns (Solarii)     &emsp; &emsp;| 1014      |
-| Silver Moons (Lunarii)    &emsp; &emsp;| 4,487      |
+| Golden Suns (Solarii)     &emsp; &emsp;| 2064      |
+| Silver Moons (Lunarii)    &emsp; &emsp;| 4,762      |
 | Gems and Trinkets         &emsp; &emsp;| 1,025gp    |
 | Pearl (Identify)          &emsp; &emsp;| 100gp      |
 
