@@ -21,6 +21,9 @@ permalink: '/crafting/'
     {% include card_flip.html item="+2 Ammunition" content="Rarity: Rare <br> Base: Mundane Ammunition (Qty 10)  <br> Component: Monstrosity Pouch of Teeth <br> Time: 20 Hours <br><br> You have a <b>+2 bonus to attack and damage</b> rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical." url="https://github.com/Npjthomas/The_Imperium/blob/main/items/Card_Plus_2_Ammo.png?raw=true" %} 
     </div>
     <div>
+    {% include card_flip.html item="Bracers of Archery" content="Rarity: Rare <br> Base: Bracers  <br> Component: Monstrosity Pelt <br> Time: 40 Hours <br><br><b><i>Requires Attunement.</i></b><br> While wearing these bracers, you have proficiency with the Recurve Bow and Shortbow, and you gain a <b>+2 bonus to damage rolls</b> made with such weapons." url="https://github.com/Npjthomas/The_Imperium/blob/main/items/Card_Bracers_of_Archery.png?raw=true" %} 
+    </div>
+    <div>
     {% include card_flip.html item="Periapt of Health" content="Rarity: Uncommon <br> Base: Necklace worth 80g  <br> Component: Monstrosity Heart <br> Time: 20 Hours <br><br><b><i>Requires Attunement.</i></b><br> While wearing this pendant, you can take an action to regain <b>2d4 + 2 Hit Points</b>. Once used, this property can't be used again until the next dawn.<br><br> In addition, you have <b>Advantage</b> on saving throws to avoid or end the <i>Poisoned</i> condition while you wear this pendant." url="https://github.com/Npjthomas/The_Imperium/blob/main/items/Card_Periapt_of_Health.png?raw=true" %} 
     </div>
     <div>
