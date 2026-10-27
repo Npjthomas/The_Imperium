@@ -36,6 +36,9 @@ permalink: '/crafting/'
     {% include card_flip.html item="Armor of Necrotic Resistance" content="Rarity: Uncommon <br> Base: Armor (Any)  <br> Component: Undying Flesh <br> Time: 10 Hours <br><br><b><i>Requires Attunement.</i></b><br> You have <b>Resistance</b> to <i>necrotic damage</i> while you wear this armor." url="https://github.com/Npjthomas/The_Imperium/blob/main/items/Card_Armor_of_Resistance_Necrotic.png?raw=true" %} 
     </div>
     <div>
+    {% include card_flip.html item="Chalmys of Dolus" content="Rarity: Rare <br> Base: Cloak or Cape  <br> Component: Monstrosity Pelt <br> Time: 40 Hours <br><br>This chalmys smells faintly of petrichor. While wearing it, you can use it to cast the <i><b>Dimension Door</b></i> spell as an action. This property of the chalmys can't be used again until the next dawn. When you disappear, you leave behind a cloud of earthen dust, and you appear in a similar cloud of earthen dust at your destination. The dust lightly obscures the space you left and the space you appear in, and it dissipates at the end of your next turn. A light or stronger wind disperses the dust." url="https://github.com/Npjthomas/The_Imperium/blob/main/items/Card_Cape_of_Dolos.png?raw=true" %} 
+    </div>
+    <div>
     {% include card_flip.html item="Pendant <br>of Charming" content="Rarity: Uncommon <br> Base: Necklace worth 200g  <br> Component: Fey Eye <br> Time: 20 Hours <br><br><b><i>Requires Attunement.</i></b><br>This pendant has 3 charges. While wearing it, you can expend 1 charge as an action to cast the <b>charm person</b> spell (save DC 13) on a humanoid within 30 feet of you, provided that you and the target can see each other. The pendant regain all expended charges daily at dawn." url="https://github.com/Npjthomas/The_Imperium/blob/main/items/Card_Pendant_of_Charming.png?raw=true" %} 
     </div>
     <div>
