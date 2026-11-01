@@ -35,30 +35,30 @@ permalink: '/inventory/'
 |:------------|:--------------|:--------------|:--------------|----------------:|
 |Monstrosity &emsp; &emsp;|Phial of Blood            &emsp; &emsp;|Thracian Horse    &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  | <!-- Wand of Magic Missiles -->
 |Monstrosity &emsp; &emsp;|Eyes                      &emsp; &emsp;|Crocotta          &emsp; &emsp;| 2 &emsp; &emsp;| &emsp; &emsp; 5  | <!-- Wand of Detect Magic -->
-|Monstrosity &emsp; &emsp;|Pouch of Teeth            &emsp; &emsp;|Thracian Horse    &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 |
+|Monstrosity &emsp; &emsp;|Pouch of Teeth            &emsp; &emsp;|Thracian Horse    &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- +2 Ammunition -->
 |Monstrosity &emsp; &emsp;|Heart                     &emsp; &emsp;|Thracian Horse    &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 | <!-- Periapt of Health -->
-|Monstrosity &emsp; &emsp;|Pelt                      &emsp; &emsp;|Crocotta          &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 20 |
+|Monstrosity &emsp; &emsp;|Pelt                      &emsp; &emsp;|Crocotta          &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 20 | <!-- Bracers of Archery, Cape of Montebank -->
 |Monstrosity &emsp; &emsp;|Poison Gland              &emsp; &emsp;|Hydra             &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 | <!-- Veridian Deceiver -->
 |Monstrosity &emsp; &emsp;|Antenna                   &emsp; &emsp;|Myrmeke           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  | <!-- Wand of Enemy Detection-->
 |Monstrosity &emsp; &emsp;|Pincer                    &emsp; &emsp;|Myrmeke           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- Rope of Entanglement -->
 |Monstrosity &emsp; &emsp;|Claws                     &emsp; &emsp;|Myrmeke           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- +2 Weapon? -->
 |Monstrosity &emsp; &emsp;|Fat                       &emsp; &emsp;|Myrmeke           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 | <!-- Potion of Superior Healing -->
 |Monstrosity &emsp; &emsp;|Chitin                    &emsp; &emsp;|Myrmeke           &emsp; &emsp;| 2 &emsp; &emsp;| &emsp; &emsp; 20 | <!-- Bracers of Defense-->
-|Monstrosity &emsp; &emsp;|Claws                     &emsp; &emsp;|Shadow Mastiff    &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 | 
-|Monstrosity &emsp; &emsp;|Ether                     &emsp; &emsp;|Shadow Mastiff    &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 | 
-|Monstrosity &emsp; &emsp;|Liver                     &emsp; &emsp;|Shadow Mastiff    &emsp; &emsp;| 3 &emsp; &emsp;| &emsp; &emsp; 10 | 
+|Monstrosity &emsp; &emsp;|Claws                     &emsp; &emsp;|Shadow Mastiff    &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- +2 Weapon--><!-- Awaiting Update-->
+|Monstrosity &emsp; &emsp;|Ether                     &emsp; &emsp;|Shadow Mastiff    &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- Potion of Invisibility-->
+|Monstrosity &emsp; &emsp;|Liver                     &emsp; &emsp;|Shadow Mastiff    &emsp; &emsp;| 3 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- Potion of Superior Healing-->
 |Monstrosity &emsp; &emsp;|Hide                      &emsp; &emsp;|Shadow Mastiff    &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 20 | 
-|Monstrosity &emsp; &emsp;|Claws                     &emsp; &emsp;|Cerberus          &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 | 
-|Monstrosity &emsp; &emsp;|Bones                     &emsp; &emsp;|Cerberus          &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 | 
-|Monstrosity &emsp; &emsp;|Pouch of Feathers         &emsp; &emsp;|Stimfey           &emsp; &emsp;| 7 &emsp; &emsp;| &emsp; &emsp; 10 | 
+|Monstrosity &emsp; &emsp;|Claws                     &emsp; &emsp;|Cerberus          &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- Mage Hunter Blade-->
+|Monstrosity &emsp; &emsp;|Bones                     &emsp; &emsp;|Cerberus          &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- Mage Hunter Bulwark-->
+|Monstrosity &emsp; &emsp;|Pouch of Feathers         &emsp; &emsp;|Stimfey           &emsp; &emsp;| 7 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- Stymphalian Scale Mail-->
 |Beast       &emsp; &emsp;|Pelt                      &emsp; &emsp;|Golden Lion       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 20 | <!-- Golden Lion Pelt -->
 |Undead      &emsp; &emsp;|Pouch of Teeth            &emsp; &emsp;|Golden Lion       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- Vivious Weapon -->
 |Undead      &emsp; &emsp;|Phial of Congealed Blood  &emsp; &emsp;|Golden Lion       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  | <!-- Potion of Necrotic Resistance -->
-|Undead      &emsp; &emsp;|Bone                      &emsp; &emsp;|Golden Lion       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  |
+|Undead      &emsp; &emsp;|Bone                      &emsp; &emsp;|Golden Lion       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  | <!-- Staff of Withering--><!-- Awaiting Update-->
 |Undead      &emsp; &emsp;|Undying Flesh             &emsp; &emsp;|Golden Lion       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 | <!-- Armor of Necrotic Resistance -->
-|Undead      &emsp; &emsp;|Pouch of Teeth            &emsp; &emsp;|Skeleton          &emsp; &emsp;| 4 &emsp; &emsp;| &emsp; &emsp; 10 | 
-|Undead      &emsp; &emsp;|Bone                      &emsp; &emsp;|Skeleton          &emsp; &emsp;| 4 &emsp; &emsp;| &emsp; &emsp; 5  |
-|Undead      &emsp; &emsp;|Marrow                    &emsp; &emsp;|Skeleton          &emsp; &emsp;| 3 &emsp; &emsp;| &emsp; &emsp; 10 |
+|Undead      &emsp; &emsp;|Pouch of Teeth            &emsp; &emsp;|Skeleton          &emsp; &emsp;| 4 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- Vicious Weapon-->
+|Undead      &emsp; &emsp;|Bone                      &emsp; &emsp;|Skeleton          &emsp; &emsp;| 4 &emsp; &emsp;| &emsp; &emsp; 5  | <!-- Staff of Withering--><!-- Awaiting Update-->
+|Undead      &emsp; &emsp;|Marrow                    &emsp; &emsp;|Skeleton          &emsp; &emsp;| 3 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- Mace of Disruption--><!-- Awaiting Update-->
 |Fey         &emsp; &emsp;|Eye                       &emsp; &emsp;|Centaur           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  | <!-- Pendant of Charming, Lantern of Revealing -->
 |Fey         &emsp; &emsp;|Flesh                     &emsp; &emsp;|Centaur           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  |
 |Fey         &emsp; &emsp;|Phial of Blood            &emsp; &emsp;|Centaur           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  | <!-- Philter of Love -->
@@ -88,7 +88,9 @@ permalink: '/inventory/'
 |Humanoid    &emsp; &emsp;|Eye                       &emsp; &emsp;|Myrmeke Advanced  &emsp; &emsp;| 2 &emsp; &emsp;| &emsp; &emsp; 5  | <!-- Gogles of Night? -->
 |Humanoid    &emsp; &emsp;|Liver                     &emsp; &emsp;|Myrmeke Advanced  &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 | <!-- Ring of Psychic Resitance -->
 |Humanoid    &emsp; &emsp;|Brain                     &emsp; &emsp;|Myrmeke Advanced  &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 20 | <!-- Headband of Intellect -->
-
+|Beast       &emsp; &emsp;|Pouch of Scales           &emsp; &emsp;|Giant Snake       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 | 
+|Beast       &emsp; &emsp;|Poison Gland              &emsp; &emsp;|Giant Snake       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 |
+|Beast       &emsp; &emsp;|Pouch of Teeth            &emsp; &emsp;|Giant Snake       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 |
 
 
 ### Mundane Materials
@@ -109,11 +111,12 @@ permalink: '/inventory/'
 
 |Type         |Quantity       |
 |:------------|:-------------:|
-|Frail      &emsp; &emsp; | 3       |
-|Robust     &emsp; &emsp; | 1       |
+|Frail      &emsp; &emsp; | 4       | <!-- 1 added from Giant Snake-->
+|Robust     &emsp; &emsp; | 0       | <!-- 1 subtracted for Magehunter Shield -->
 |Potent     &emsp; &emsp; | 0       |
 |Mythic     &emsp; &emsp; | 0       |
 |Deific     &emsp; &emsp; | 0       |
+
 
 ### Inventory
 
@@ -131,4 +134,4 @@ permalink: '/inventory/'
 |Second Chance                                 &emsp; &emsp;| 1       |
 |Shortbows                                     &emsp; &emsp;| 3       |
 |Ancient Hoplon                                &emsp; &emsp;| 1       |
-|Ancient Potions of Greater Healing            &emsp; &emsp;| 2       |
+|Ancient Potions of Greater Healing            &emsp; &emsp;| 1       |
