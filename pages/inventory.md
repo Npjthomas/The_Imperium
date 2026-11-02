@@ -44,7 +44,7 @@ permalink: '/inventory/'
 |Monstrosity &emsp; &emsp;|Claws                     &emsp; &emsp;|Myrmeke           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- +2 Weapon? -->
 |Monstrosity &emsp; &emsp;|Fat                       &emsp; &emsp;|Myrmeke           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 | <!-- Potion of Superior Healing -->
 |Monstrosity &emsp; &emsp;|Chitin                    &emsp; &emsp;|Myrmeke           &emsp; &emsp;| 2 &emsp; &emsp;| &emsp; &emsp; 20 | <!-- Bracers of Defense-->
-|Monstrosity &emsp; &emsp;|Claws                     &emsp; &emsp;|Shadow Mastiff    &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- +2 Weapon--><!-- Awaiting Update-->
+|Monstrosity &emsp; &emsp;|Claws                     &emsp; &emsp;|Shadow Mastiff    &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- +2 Weapon-->
 |Monstrosity &emsp; &emsp;|Ether                     &emsp; &emsp;|Shadow Mastiff    &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- Potion of Invisibility-->
 |Monstrosity &emsp; &emsp;|Liver                     &emsp; &emsp;|Shadow Mastiff    &emsp; &emsp;| 3 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- Potion of Superior Healing-->
 |Monstrosity &emsp; &emsp;|Hide                      &emsp; &emsp;|Shadow Mastiff    &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 20 | 
@@ -54,11 +54,11 @@ permalink: '/inventory/'
 |Beast       &emsp; &emsp;|Pelt                      &emsp; &emsp;|Golden Lion       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 20 | <!-- Golden Lion Pelt -->
 |Undead      &emsp; &emsp;|Pouch of Teeth            &emsp; &emsp;|Golden Lion       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- Vivious Weapon -->
 |Undead      &emsp; &emsp;|Phial of Congealed Blood  &emsp; &emsp;|Golden Lion       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  | <!-- Potion of Necrotic Resistance -->
-|Undead      &emsp; &emsp;|Bone                      &emsp; &emsp;|Golden Lion       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  | <!-- Staff of Withering--><!-- Awaiting Update-->
+|Undead      &emsp; &emsp;|Bone                      &emsp; &emsp;|Golden Lion       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  | <!-- Staff of Withering-->
 |Undead      &emsp; &emsp;|Undying Flesh             &emsp; &emsp;|Golden Lion       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 | <!-- Armor of Necrotic Resistance -->
 |Undead      &emsp; &emsp;|Pouch of Teeth            &emsp; &emsp;|Skeleton          &emsp; &emsp;| 4 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- Vicious Weapon-->
-|Undead      &emsp; &emsp;|Bone                      &emsp; &emsp;|Skeleton          &emsp; &emsp;| 4 &emsp; &emsp;| &emsp; &emsp; 5  | <!-- Staff of Withering--><!-- Awaiting Update-->
-|Undead      &emsp; &emsp;|Marrow                    &emsp; &emsp;|Skeleton          &emsp; &emsp;| 3 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- Mace of Disruption--><!-- Awaiting Update-->
+|Undead      &emsp; &emsp;|Bone                      &emsp; &emsp;|Skeleton          &emsp; &emsp;| 4 &emsp; &emsp;| &emsp; &emsp; 5  | <!-- Staff of Withering-->
+|Undead      &emsp; &emsp;|Marrow                    &emsp; &emsp;|Skeleton          &emsp; &emsp;| 3 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- Mace of Disruption--> <!-- Awaiting Update-->
 |Fey         &emsp; &emsp;|Eye                       &emsp; &emsp;|Centaur           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  | <!-- Pendant of Charming, Lantern of Revealing -->
 |Fey         &emsp; &emsp;|Flesh                     &emsp; &emsp;|Centaur           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  |
 |Fey         &emsp; &emsp;|Phial of Blood            &emsp; &emsp;|Centaur           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  | <!-- Philter of Love -->
