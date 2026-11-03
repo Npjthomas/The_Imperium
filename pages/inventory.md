@@ -81,9 +81,9 @@ permalink: '/inventory/'
 |Giant       &emsp; &emsp;|Heart                     &emsp; &emsp;|Cyclops           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 | <!-- Giant Slayer -->                                            
 |Giant       &emsp; &emsp;|Eye                       &emsp; &emsp;|Cyclops           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 | <!-- Cyclopean Shield -->
 |Aberration  &emsp; &emsp;|Subeye                    &emsp; &emsp;|Dreamreaver       &emsp; &emsp;| 2 &emsp; &emsp;| &emsp; &emsp; 5  | 
-|Aberration  &emsp; &emsp;|Hide                      &emsp; &emsp;|Dreamreaver       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 20 | <!-- Robe of Beuareve or astral luggage-->                       <!-- Awaiting Update-->
+|Aberration  &emsp; &emsp;|Hide                      &emsp; &emsp;|Dreamreaver       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 20 | <!-- Robe of Beuareve-->
 |Aberration  &emsp; &emsp;|Bone                      &emsp; &emsp;|Dreamreaver       &emsp; &emsp;| 3 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- Time Splitter -->
-|Aberration  &emsp; &emsp;|Horn                      &emsp; &emsp;|Maenad            &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- Pearl of Power? -->                                         <!-- Awaiting Update-->
+|Aberration  &emsp; &emsp;|Horn                      &emsp; &emsp;|Maenad            &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- Pearl of Power -->
 |Aberration  &emsp; &emsp;|Hide                      &emsp; &emsp;|Goatman           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 20 |
 |Humanoid    &emsp; &emsp;|Eye                       &emsp; &emsp;|Myrmeke Advanced  &emsp; &emsp;| 2 &emsp; &emsp;| &emsp; &emsp; 5  | <!-- Gogles of Night? -->
 |Humanoid    &emsp; &emsp;|Liver                     &emsp; &emsp;|Myrmeke Advanced  &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 | <!-- Ring of Psychic Resitance -->
