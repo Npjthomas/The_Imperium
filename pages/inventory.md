@@ -58,7 +58,7 @@ permalink: '/inventory/'
 |Undead      &emsp; &emsp;|Undying Flesh             &emsp; &emsp;|Golden Lion       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 | <!-- Armor of Necrotic Resistance -->
 |Undead      &emsp; &emsp;|Pouch of Teeth            &emsp; &emsp;|Skeleton          &emsp; &emsp;| 4 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- Vicious Weapon-->
 |Undead      &emsp; &emsp;|Bone                      &emsp; &emsp;|Skeleton          &emsp; &emsp;| 4 &emsp; &emsp;| &emsp; &emsp; 5  | <!-- Staff of Withering-->
-|Undead      &emsp; &emsp;|Marrow                    &emsp; &emsp;|Skeleton          &emsp; &emsp;| 3 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- Mace of Disruption--> <!-- Awaiting Update-->
+|Undead      &emsp; &emsp;|Marrow                    &emsp; &emsp;|Skeleton          &emsp; &emsp;| 3 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- Mace of Disruption-->                                      <!-- Awaiting Update-->
 |Fey         &emsp; &emsp;|Eye                       &emsp; &emsp;|Centaur           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  | <!-- Pendant of Charming, Lantern of Revealing -->
 |Fey         &emsp; &emsp;|Flesh                     &emsp; &emsp;|Centaur           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  |
 |Fey         &emsp; &emsp;|Phial of Blood            &emsp; &emsp;|Centaur           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  | <!-- Philter of Love -->
@@ -72,25 +72,25 @@ permalink: '/inventory/'
 |Fey         &emsp; &emsp;|Sap                       &emsp; &emsp;|Dryad (Demetria)  &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  | <!-- Quick Grow Acorns -->
 |Fey         &emsp; &emsp;|Horns                     &emsp; &emsp;|Goatling          &emsp; &emsp;| 2 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- Aulos of Haunting -->
 |Fey         &emsp; &emsp;|Pouch of Teeth            &emsp; &emsp;|Goatling          &emsp; &emsp;| 2 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- Amulet of Proof Against Location and Detection -->
-|Fey         &emsp; &emsp;|Phial of Blood            &emsp; &emsp;|Goatling          &emsp; &emsp;| 3 &emsp; &emsp;| &emsp; &emsp; 5  |
+|Fey         &emsp; &emsp;|Phial of Blood            &emsp; &emsp;|Goatling          &emsp; &emsp;| 3 &emsp; &emsp;| &emsp; &emsp; 5  | <!-- Philter of Love -->
 |Plant       &emsp; &emsp;|Roots                     &emsp; &emsp;|Awakened Tree     &emsp; &emsp;| 3 &emsp; &emsp;| &emsp; &emsp; 5  | <!-- Ring of Birdseye Maple -->
-|Construct   &emsp; &emsp;|Lifespark                 &emsp; &emsp;|Marble Golem      &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 25 |
+|Construct   &emsp; &emsp;|Lifespark                 &emsp; &emsp;|Marble Golem      &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 25 | <!-- Dancing Sword -->                                           <!-- Awaiting Update-->
 |Giant       &emsp; &emsp;|Phial of Blood            &emsp; &emsp;|Cyclops           &emsp; &emsp;| 3 &emsp; &emsp;| &emsp; &emsp; 5  | <!-- Potion of Growth -->
 |Giant       &emsp; &emsp;|Pouch of Nails            &emsp; &emsp;|Cyclops           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  | <!-- Potion of "Hill" Giant Strength -->
-|Giant       &emsp; &emsp;|Bones                     &emsp; &emsp;|Cyclops           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 |
-|Giant       &emsp; &emsp;|Heart                     &emsp; &emsp;|Cyclops           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 |
+|Giant       &emsp; &emsp;|Bones                     &emsp; &emsp;|Cyclops           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- Gaunlets of Ogre Power-->
+|Giant       &emsp; &emsp;|Heart                     &emsp; &emsp;|Cyclops           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 | <!-- Giant Slayer -->                                            
 |Giant       &emsp; &emsp;|Eye                       &emsp; &emsp;|Cyclops           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 | <!-- Cyclopean Shield -->
-|Aberration  &emsp; &emsp;|Subeye                    &emsp; &emsp;|Dreamreaver       &emsp; &emsp;| 2 &emsp; &emsp;| &emsp; &emsp; 5  |
-|Aberration  &emsp; &emsp;|Hide                      &emsp; &emsp;|Dreamreaver       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 20 |
+|Aberration  &emsp; &emsp;|Subeye                    &emsp; &emsp;|Dreamreaver       &emsp; &emsp;| 2 &emsp; &emsp;| &emsp; &emsp; 5  | 
+|Aberration  &emsp; &emsp;|Hide                      &emsp; &emsp;|Dreamreaver       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 20 | <!-- Robe of Beuareve or astral luggage-->                       <!-- Awaiting Update-->
 |Aberration  &emsp; &emsp;|Bone                      &emsp; &emsp;|Dreamreaver       &emsp; &emsp;| 3 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- Time Splitter -->
-|Aberration  &emsp; &emsp;|Horn                      &emsp; &emsp;|Maenad            &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 |
+|Aberration  &emsp; &emsp;|Horn                      &emsp; &emsp;|Maenad            &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- Pearl of Power? -->                                         <!-- Awaiting Update-->
 |Aberration  &emsp; &emsp;|Hide                      &emsp; &emsp;|Goatman           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 20 |
 |Humanoid    &emsp; &emsp;|Eye                       &emsp; &emsp;|Myrmeke Advanced  &emsp; &emsp;| 2 &emsp; &emsp;| &emsp; &emsp; 5  | <!-- Gogles of Night? -->
 |Humanoid    &emsp; &emsp;|Liver                     &emsp; &emsp;|Myrmeke Advanced  &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 | <!-- Ring of Psychic Resitance -->
 |Humanoid    &emsp; &emsp;|Brain                     &emsp; &emsp;|Myrmeke Advanced  &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 20 | <!-- Headband of Intellect -->
-|Beast       &emsp; &emsp;|Pouch of Scales           &emsp; &emsp;|Giant Snake       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 | 
+|Beast       &emsp; &emsp;|Pouch of Scales           &emsp; &emsp;|Giant Snake       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 | <!-- +1 Shield -->                                               <!-- Awaiting Update-->
 |Beast       &emsp; &emsp;|Poison Gland              &emsp; &emsp;|Giant Snake       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 |
-|Beast       &emsp; &emsp;|Pouch of Teeth            &emsp; &emsp;|Giant Snake       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 |
+|Beast       &emsp; &emsp;|Pouch of Teeth            &emsp; &emsp;|Giant Snake       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- +1 Ammunition -->                                           <!-- Awaiting Update-->
 
 
 ### Mundane Materials
