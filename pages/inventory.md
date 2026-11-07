@@ -52,9 +52,9 @@ permalink: '/inventory/'
 |Monstrosity &emsp; &emsp;|Bones                     &emsp; &emsp;|Cerberus          &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- Mage Hunter Bulwark-->
 |Monstrosity &emsp; &emsp;|Pouch of Feathers         &emsp; &emsp;|Stimfey           &emsp; &emsp;| 7 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- Stymphalian Scale Mail-->
 |Beast       &emsp; &emsp;|Pelt                      &emsp; &emsp;|Golden Lion       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 20 | <!-- Golden Lion Pelt -->
-|Beast       &emsp; &emsp;|Pouch of Scales           &emsp; &emsp;|Giant Snake       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 | <!-- +1 Shield -->                                               <!-- Awaiting Update-->
+|Beast       &emsp; &emsp;|Pouch of Scales           &emsp; &emsp;|Giant Snake       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 | <!-- +1 Shield -->                                              
 |Beast       &emsp; &emsp;|Poison Gland              &emsp; &emsp;|Giant Snake       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 |
-|Beast       &emsp; &emsp;|Pouch of Teeth            &emsp; &emsp;|Giant Snake       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- +1 Ammunition -->                                           <!-- Awaiting Update-->
+|Beast       &emsp; &emsp;|Pouch of Teeth            &emsp; &emsp;|Giant Snake       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- +1 Ammunition -->                                           
 |Undead      &emsp; &emsp;|Pouch of Teeth            &emsp; &emsp;|Golden Lion       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- Vivious Weapon -->
 |Undead      &emsp; &emsp;|Phial of Congealed Blood  &emsp; &emsp;|Golden Lion       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  | <!-- Potion of Necrotic Resistance -->
 |Undead      &emsp; &emsp;|Bone                      &emsp; &emsp;|Golden Lion       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  | <!-- Staff of Withering-->
