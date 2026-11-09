@@ -61,7 +61,7 @@ permalink: '/inventory/'
 |Undead      &emsp; &emsp;|Undying Flesh             &emsp; &emsp;|Golden Lion       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 | <!-- Armor of Necrotic Resistance -->
 |Undead      &emsp; &emsp;|Pouch of Teeth            &emsp; &emsp;|Skeleton          &emsp; &emsp;| 4 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- Vicious Weapon-->
 |Undead      &emsp; &emsp;|Bone                      &emsp; &emsp;|Skeleton          &emsp; &emsp;| 4 &emsp; &emsp;| &emsp; &emsp; 5  | <!-- Staff of Withering-->
-|Undead      &emsp; &emsp;|Marrow                    &emsp; &emsp;|Skeleton          &emsp; &emsp;| 3 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- Mace of Disruption-->                                       <!-- Awaiting Update-->
+|Undead      &emsp; &emsp;|Marrow                    &emsp; &emsp;|Skeleton          &emsp; &emsp;| 3 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- Mace of Disruption-->                                                        <!-- Awaiting Update-->
 |Fey         &emsp; &emsp;|Eye                       &emsp; &emsp;|Centaur           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  | <!-- Pendant of Charming, Lantern of Revealing -->
 |Fey         &emsp; &emsp;|Flesh                     &emsp; &emsp;|Centaur           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  |
 |Fey         &emsp; &emsp;|Phial of Blood            &emsp; &emsp;|Centaur           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  | <!-- Philter of Love -->
@@ -77,7 +77,7 @@ permalink: '/inventory/'
 |Fey         &emsp; &emsp;|Pouch of Teeth            &emsp; &emsp;|Goatling          &emsp; &emsp;| 2 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- Amulet of Proof Against Location and Detection -->
 |Fey         &emsp; &emsp;|Phial of Blood            &emsp; &emsp;|Goatling          &emsp; &emsp;| 3 &emsp; &emsp;| &emsp; &emsp; 5  | <!-- Philter of Love -->
 |Plant       &emsp; &emsp;|Roots                     &emsp; &emsp;|Awakened Tree     &emsp; &emsp;| 3 &emsp; &emsp;| &emsp; &emsp; 5  | <!-- Ring of Birdseye Maple -->
-|Construct   &emsp; &emsp;|Lifespark                 &emsp; &emsp;|Marble Golem      &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 25 | <!-- Dancing Sword -->                                           <!-- [V] Awaiting Update-->
+|Construct   &emsp; &emsp;|Lifespark                 &emsp; &emsp;|Marble Golem      &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 25 | <!-- Dancing Sword -->                                                            <!-- [V] Awaiting Update-->
 |Giant       &emsp; &emsp;|Phial of Blood            &emsp; &emsp;|Cyclops           &emsp; &emsp;| 3 &emsp; &emsp;| &emsp; &emsp; 5  | <!-- Potion of Growth -->
 |Giant       &emsp; &emsp;|Pouch of Nails            &emsp; &emsp;|Cyclops           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  | <!-- Potion of "Hill" Giant Strength -->
 |Giant       &emsp; &emsp;|Bones                     &emsp; &emsp;|Cyclops           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- Gaunlets of Ogre Power-->
@@ -91,10 +91,10 @@ permalink: '/inventory/'
 |Humanoid    &emsp; &emsp;|Eye                       &emsp; &emsp;|Myrmeke Advanced  &emsp; &emsp;| 2 &emsp; &emsp;| &emsp; &emsp; 5  | <!-- Gogles of Night? -->
 |Humanoid    &emsp; &emsp;|Liver                     &emsp; &emsp;|Myrmeke Advanced  &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 | <!-- Ring of Psychic Resitance -->
 |Humanoid    &emsp; &emsp;|Brain                     &emsp; &emsp;|Myrmeke Advanced  &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 20 | <!-- Headband of Intellect -->
-|Drakon      &emsp; &emsp;|Pouch of Scales           &emsp; &emsp;|Python            &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  | <!-- Dragon Scale Mail (Black), +3 Shield,   -->                  <!-- [V][L] Awaiting Update-->
-|Drakon      &emsp; &emsp;|Bone                      &emsp; &emsp;|Python            &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- +3 Armor -->                                                 <!-- [L] Awaiting Update-->
-|Drakon      &emsp; &emsp;|Pouch of Teeth            &emsp; &emsp;|Python            &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- +3 Ammunition -->                                            <!-- [V] Awaiting Update-->
-|Drakon      &emsp; &emsp;|Eye                       &emsp; &emsp;|Python            &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 | <!-- Ring of Acid Resistance -->                                  <!-- [U] Awaiting Update-->
+|Drakon      &emsp; &emsp;|Pouch of Scales           &emsp; &emsp;|Python            &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  | <!-- Dragon Scale Mail (Black), +3 Shield, Dragon Hide Belt, Scaled Ornament -->   <!-- [V][L] Awaiting Update-->
+|Drakon      &emsp; &emsp;|Bone                      &emsp; &emsp;|Python            &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- +3 Armor -->                                                                  <!-- [L] Awaiting Update-->
+|Drakon      &emsp; &emsp;|Pouch of Teeth            &emsp; &emsp;|Python            &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- +3 Ammunition -->                                                             <!-- [V] Awaiting Update-->
+|Drakon      &emsp; &emsp;|Eye                       &emsp; &emsp;|Python            &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 | <!-- Ring of Acid Resistance, Dragon-Touched Focus -->                             <!-- [U] Awaiting Update-->
 
 
 ### Mundane Materials
