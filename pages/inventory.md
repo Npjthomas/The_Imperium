@@ -23,10 +23,11 @@ permalink: '/inventory/'
 
 | Currency | Quantity |
 |:-----|:--------:|
-| Golden Suns (Solarii)     &emsp; &emsp;| 3264      |
+| Golden Suns (Solarii)     &emsp; &emsp;| 3,264      |
 | Silver Moons (Lunarii)    &emsp; &emsp;| 4,762      |
 | Gems and Trinkets         &emsp; &emsp;| 1,525gp    |
 | Pearl (Identify)          &emsp; &emsp;| 100gp      |
+
 
 
 ### Monster Materials
@@ -65,10 +66,10 @@ permalink: '/inventory/'
 |Fey         &emsp; &emsp;|Eye                       &emsp; &emsp;|Centaur           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  | <!-- Pendant of Charming, Lantern of Revealing -->
 |Fey         &emsp; &emsp;|Flesh                     &emsp; &emsp;|Centaur           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  |
 |Fey         &emsp; &emsp;|Phial of Blood            &emsp; &emsp;|Centaur           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  | <!-- Philter of Love -->
-|Fey         &emsp; &emsp;|Liver                     &emsp; &emsp;|Centaur           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 |
-|Fey         &emsp; &emsp;|Heart                     &emsp; &emsp;|Centaur           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 |
+|Fey         &emsp; &emsp;|Liver                     &emsp; &emsp;|Centaur           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 | <!-- Potion of Speed -->                                                            <!-- [V] Awaiting Update-->
+|Fey         &emsp; &emsp;|Heart                     &emsp; &emsp;|Centaur           &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 | <!-- Wand of Wonder -->                                                             <!-- [R] Awaiting Update-->
 |Fey         &emsp; &emsp;|Sinew                     &emsp; &emsp;|Suneater          &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 20 | <!-- Sunwing Bow -->
-|Fey         &emsp; &emsp;|Pouch of Feathers         &emsp; &emsp;|Harpy Witch       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 |
+|Fey         &emsp; &emsp;|Pouch of Feathers         &emsp; &emsp;|Harpy Witch       &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 | <!-- Scimitar of Speed -->                                                            <!-- [V] Awaiting Update-->
 |Fey         &emsp; &emsp;|Eye                       &emsp; &emsp;|Harpy Witch       &emsp; &emsp;| 2 &emsp; &emsp;| &emsp; &emsp; 5  | <!-- Pendant of Charming, Lantern of Revealing -->
 |Fey         &emsp; &emsp;|Roots                     &emsp; &emsp;|Dryad (Demetria)  &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- Nature's Vengeance -->
 |Fey         &emsp; &emsp;|Vines                     &emsp; &emsp;|Dryad (Demetria)  &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- Bloom Stalkers -->
@@ -91,10 +92,10 @@ permalink: '/inventory/'
 |Humanoid    &emsp; &emsp;|Eye                       &emsp; &emsp;|Myrmeke Advanced  &emsp; &emsp;| 2 &emsp; &emsp;| &emsp; &emsp; 5  | <!-- Gogles of Night? -->
 |Humanoid    &emsp; &emsp;|Liver                     &emsp; &emsp;|Myrmeke Advanced  &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 | <!-- Ring of Psychic Resitance -->
 |Humanoid    &emsp; &emsp;|Brain                     &emsp; &emsp;|Myrmeke Advanced  &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 20 | <!-- Headband of Intellect -->
-|Drakon      &emsp; &emsp;|Pouch of Scales           &emsp; &emsp;|Python            &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  | <!-- Dragon Scale Mail (Black), +3 Shield, Dragon Hide Belt, Scaled Ornament -->   <!-- [V][L] Awaiting Update-->
+|Drakon      &emsp; &emsp;|Pouch of Scales           &emsp; &emsp;|Python            &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 5  | <!-- Dragon Scale Mail (Black), +3 Shield-->                                       <!-- [V][L] Awaiting Update-->
 |Drakon      &emsp; &emsp;|Bone                      &emsp; &emsp;|Python            &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- +3 Armor -->                                                                  <!-- [L] Awaiting Update-->
-|Drakon      &emsp; &emsp;|Pouch of Teeth            &emsp; &emsp;|Python            &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- +3 Ammunition -->                                                             <!-- [V] Awaiting Update-->
-|Drakon      &emsp; &emsp;|Eye                       &emsp; &emsp;|Python            &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 | <!-- Ring of Acid Resistance, Dragon-Touched Focus -->                             <!-- [U] Awaiting Update-->
+|Drakon      &emsp; &emsp;|Pouch of Teeth            &emsp; &emsp;|Python            &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 10 | <!-- +3 Ammunition -->                                                             
+|Drakon      &emsp; &emsp;|Eye                       &emsp; &emsp;|Python            &emsp; &emsp;| 1 &emsp; &emsp;| &emsp; &emsp; 15 | <!-- Ring of Acid Resistance, Dragon-Touched Focus -->                             
 
 
 ### Mundane Materials
@@ -126,6 +127,7 @@ permalink: '/inventory/'
 
 |Item         |Quantity       |
 |:------------|:-------------:|
+|Lembos (Boat, 36 Oars)                        &emsp; &emsp;| 1       |
 |Game of 20 Squares                            &emsp; &emsp;| 1       |
 |Predator's Whistle                            &emsp; &emsp;| 1       |
 |Arrow of Covella                              &emsp; &emsp;| 4       |
